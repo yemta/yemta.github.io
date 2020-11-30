@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Required meta tags always come first -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="theme-color" content="#5B1616" />
+    <title>AOV - Case Archive</title>
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css">
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Material Design Bootstrap -->
+    <link href="css/mdb.min.css" rel="stylesheet">
+    <!-- Your custom styles (optional) -->
+    <link href="css/style.css" rel="stylesheet">
+    <!-- Tables -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css">
+
+
+    <link rel="icon" href="img/clover.png">
+
+    <style>
+        body,
+        html {
+            height: 100%;
+            background-color: #F9F9F9;
+        }
+
+        .bg {
+            /* The image used */
+            background-image: url("img/bg_red1.jpg");
+
+            /* Full height */
+            height: 50%;
+
+            /* Center and scale the image nicely */
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+        .faqHeader {
+            font-size: 27px;
+            margin: 20px;
+        }
+
+        .panel-heading [data-toggle="collapse"]:after {
+            font-family: 'Glyphicons Halflings';
+            content: "e072";
+            /* "play" icon */
+            float: right;
+            color: #F58723;
+            font-size: 18px;
+            line-height: 22px;
+            /* rotate "play" icon from > (right arrow) to down arrow */
+            -webkit-transform: rotate(-90deg);
+            -moz-transform: rotate(-90deg);
+            -ms-transform: rotate(-90deg);
+            -o-transform: rotate(-90deg);
+            transform: rotate(-90deg);
+        }
+
+        .panel-heading [data-toggle="collapse"].collapsed:after {
+            /* rotate "play" icon from > (right arrow) to ^ (up arrow) */
+            -webkit-transform: rotate(90deg);
+            -moz-transform: rotate(90deg);
+            -ms-transform: rotate(90deg);
+            -o-transform: rotate(90deg);
+            transform: rotate(90deg);
+            color: #454444;
+        }
+
+        .vertical-center {
+            min-height: 50%;
+            /* Fallback for browsers do NOT support vh unit */
+            min-height: 50vh;
+            /* These two lines are counted as one :-)       */
+
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .intro {
+            color: white;
+            font-size: 45px;
+        }
+
+        h2 {
+            line-height: 0.4;
+        }
+
+        #about {
+            text-align: justify;
+            text-justify: inter-word;
+        }
+
+        .athena {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        #status {
+            padding: 20px 20px 5px 20px;
+        }
+
+        #qwerty {
+            font-weight: bold;
+        }
+
+        /* Tables style */
+        div.alphabet {
+            display: inline-block;
+            width: 100%;
+            margin-bottom: 1em;
+        }
+
+        div.alphabet span {
+            display: inline-block;
+            color: #3174c7;
+            font-weight: bold;
+            cursor: pointer;
+            text-align: center;
+            margin-right: 1em;
+        }
+
+        div.alphabet span:hover {
+            text-decoration: underline;
+        }
+
+        div.alphabet span.active {
+            color: black;
+        }
+    </style>
+
+    <style type="text/css">
+        /* Chart.js */
+        @-webkit-keyframes chartjs-render-animation {
+            from {
+                opacity: 0.99
+            }
+
+            to {
+                opacity: 1
+            }
+        }
+
+        @keyframes chartjs-render-animation {
+            from {
+                opacity: 0.99
+            }
+
+            to {
+                opacity: 1
+            }
+        }
+
+        .chartjs-render-monitor {
+            -webkit-animation: chartjs-render-animation 0.001s;
+            animation: chartjs-render-animation 0.001s;
+        }
+    </style>
+</head>
+
+<body aria-busy="true">
+
+    <nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar">
+        <div class="container">
+            <a class="navbar-brand" href="#">
+                <strong>AOV</strong>
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent-7"
+                aria-controls="navbarSupportedContent-7" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent-7">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="AOV">Home
+
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="faq">FAQ
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="downloads">Downloads
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="rules">Rules</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="formats">Formats</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="templates">Templates</a>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
+                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Content
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" href="content">Content Home</a>
+                            <a class="dropdown-item external"
+                                href="https://docs.google.com/document/d/1eIoh6NWHoeKX9E3clXP-xVCIWeaHX2WrbOaUmnBhqJI/edit"
+                                target="_blank">Suggestions
+                                Document</a>
+                            <a class="dropdown-item external"
+                                href="https://docs.google.com/document/d/1Ynwl11Pqiass_LbD9itM3mARLdoO6h9UICLOgjvfvNw/edit"
+                                target="_blank">Content Rules</a>
+                            <a class="dropdown-item external"
+                                href="https://docs.google.com/document/d/1kqxY2Avk-kt72iApawH2IPVs9gFACFkj__v60MFm2V4/edit"
+                                target="_blank">Crossover
+                                Court Downloads</a>
+                        </div>
+                    </li>
+
+                    <li class="nav-item dropdown active">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
+                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Community
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item active" href="#">Case Archive
+                                <span class="sr-only">(current)</span>
+                            </a>
+                            <a class="dropdown-item" href="competition">Competitions
+                            </a>
+                            <a class="dropdown-item" href="guides">Role Guides</a>
+                        </div>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="about">About Us
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="bg">
+
+        <div class="container vertical-center">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="intro text-center">Case Archive</div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <main>
+        </br>
+        </br>
+
+        <div class="container">
+
+            <div class="row mb-4">
+                <div class="col-sm-12">
+                    <p>This page features a selection of user created cases ran on the server, including their case
+                        documents and
+                        video recording if available.
+                        </br>If you have a completed case document and video that you would like to share, feel free to
+                        submit
+                        it to any AOV Moderator via the client or Mod Discord.
+                        </br><strong>Please make sure the document is View Only!</strong>
+                    </p>
+                    <hr>
+                </div>
+            </div>
+
+            <div class="jumbotron">
+                <div class="row mb-3">
+                    <h3><strong>2018/19 Case Archive</strong></h3>
+                </div>
+
+                <!-- 2019 DataTables table, data added via script -->
+                <p>
+                    <table id="archive" class="display" style="width:100%">
+                        <thead>
+                            <tr>
+                                <th>Case Name</th>
+                                <th>Format</th>
+                                <th>Date</th>
+                            </tr>
+                        </thead>
+
+                        <tbody>
+                        </tbody>
+
+                        <tfoot>
+                        </tfoot>
+
+                    </table>
+                </p>
+                </br>
+                <hr>
+
+
+                <!-- Legacy Archive link -->
+                <div class="row sm-12">
+                    <h3>
+                        <strong>
+                            <a href="https://docs.google.com/document/d/1Oke4MAKv0uMNYoRh2IIgR-3wdSRSNAxhrON52rwtQgI/edit?usp=sharing"
+                                target="_blank">Legacy Archive (2015-2018)</a>
+                        </strong>
+                    </h3>
+                </div>
+                <p>This document contains a collection of AOV cases played from the beginning of the server until 2018.
+                </p>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="page-footer font-small grey darken-4">
+
+        <!-- Footer Elements -->
+        <div class="container text-center athena">
+
+            <!-- Grid row-->
+            <div class="row">
+
+                <!-- Grid column -->
+                <div class="col-sm-6 py-2 mb-3">
+                    </br>
+                    <a class="lead" href="https://discordapp.com/invite/tKew3hK" target="_blank"><i
+                            class="fab fa-discord fa-2x indigo-text"></i></a>
+                    </br>
+                    <a class="lead" href="https://discordapp.com/invite/tKew3hK" target="_blank">Community</a>
+                </div>
+
+                <div class="col-sm-6 py-2 mb-3">
+                    </br>
+                    <a class="lead" href="https://discord.gg/ZvzhPBj" target="_blank"><i
+                            class="fab fa-discord fa-2x red-text"></i></a>
+                    </br>
+                    <a class="lead" href="https://discord.gg/ZvzhPBj" target="_blank">Mod Server</a>
+                </div>
+                <!-- Grid column -->
+
+            </div>
+            <!-- Grid row-->
+
+        </div>
+        <!-- Footer Elements -->
+
+        <!-- Copyright -->
+        <div class="footer-copyright text-center">&#169; 2020 Attorney Online Vidya
+        </div>
+        <!-- Copyright -->
+
+    </footer>
+    <!-- Footer -->
+
+    <!-- SCRIPTS -->
+
+    <!-- JQuery -->
+    <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+
+    <script type="text/javascript" charset="utf8"
+        src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
+    <!-- Bootstrap tooltips -->
+    <script type="text/javascript" src="js/popper.min.js"></script>
+    <!-- Bootstrap core JavaScript -->
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <!-- MDB core JavaScript -->
+    <script type="text/javascript" src="js/mdb.js"></script>
+
+
+    <!-- Data Table script -->
+    <script>
+        //Alphabet search plugin
+        var _alphabetSearch = '';
+
+        $.fn.dataTable.ext.search.push(function (settings, searchData) {
+            if (!_alphabetSearch) {
+                return true;
+            }
+
+            if (searchData[0].charAt(0) === _alphabetSearch) {
+                return true;
+            }
+
+            return false;
+        });
+
+        //DataTables init
+        $(document).ready(function () {
+            var table = $('#archive').DataTable({
+                "ajax": 'caseArchive.txt'
+            });
+
+            //Alphabet search interface
+            var alphabet = $('<div class="alphabet"/>').append('Filter: ');
+
+            $('<span class="clear active"/>')
+                .data('letter', '')
+                .html('None')
+                .appendTo(alphabet);
+
+            for (var i = 0; i < 26; i++) {
+                var letter = String.fromCharCode(65 + i);
+
+                $('<span/>')
+                    .data('letter', letter)
+                    .html(letter)
+                    .appendTo(alphabet);
+            }
+
+            alphabet.insertBefore(table.table().container());
+
+            //Search behaviour
+            alphabet.on('click', 'span', function () {
+                alphabet.find('.active').removeClass('active');
+                $(this).addClass('active');
+
+                _alphabetSearch = $(this).data('letter');
+                table.draw();
+            });
+        });
+
+    </script>
+
+
+</body>
+
+</html>

@@ -1,0 +1,619 @@
+{
+  "data": [
+    [
+      "<a href='https://docs.google.com/document/d/1kmMlOCfI8oNbWWHteQ8WBcekIc2UQv1h1geEicsmKaA/edit#' target='_blank'>9001% Interest Turnabout</a>",
+      "Normal",
+      "2019/03/30"
+    ],
+    [
+      "<a href='https://docs.google.com/document/d/16EGXhM2IapAFsnoagzBBiT_VUHoL81hQO4v5MibH_4Q/edit#' target='_blank'>Turnabout A Fucking Pencil</a>",
+      "Normal",
+      "2019/01/27"
+    ],
+    [
+      "<a href='https://docs.google.com/document/d/1CAW4ytzPZqL1xysMYAGz23HpVkwNUcIlDvA2BMDaCdE/edit#' target='_blank'>Turnabout Artiste</a>",
+      "Normal",
+      "2019/03/11"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1Lt2BiVZV1R3cvin2DDpLTo1GY7uslZI6-eCDE2EwShc/edit?usp=sharing' target='_blank'>Attorneys Need Their Pay Day Too</a>",
+      "Normal",
+      "2019/03/27"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1GEKv2xHp618FL4AbkdV3cBJh_9mC70yF9Sm13UZ5ABs/edit#' target='_blank'>A Very British Turnabout</a>",
+      "Lightning",
+      "2019/01/26"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1XGrmcFou-S5H8MB6mlOJAduNaLVOXwOizyTUDf6OEIM/edit#' target='_blank'>The Beaned Turnabout</a>",
+      "Normal",
+      "2019/03/16"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1dpI2Z9e7wRsjNgr2qZKr3x0No51tErVtFt2CQeN4LMI/edit#' target='_blank'>Turnabout Clean-Up</a>",
+      "Normal",
+      "2019/03/08"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/116qpzD_77WNv66ofmfjPnIGsHEmZmE0cTypgXGUekQM/edit#' target='_blank'>Turnabout Clone My Shit Up Fam</a>",
+      "Normal",
+      "2019/01/21"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/19HoXNNQI4cAjOfH-ZIPvTSUKLDY29ndafR_JbnQxmk4/edit#' target='_blank'>Conway Sternabout</a>",
+      "Normal",
+      "2019/03/27"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1x2LosM9oPCuQMjMf7gU3maAzQRs0JCjkjjQ2XuSCxH4' target='_blank'>Detective's Turnabout</a>",
+      "Normal",
+      "2019/02/02"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1vmzVCFTDxyY4gdf7dvk9CDsbFoFdnZkxTeLf_czcsQw/edit#' target='_blank'>Dinner, Mystery and a Turnabout</a>",
+      "Normal",
+      "2019/03/01"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1U0mCKzEi9ChMwH7Jq2quBqW3YLnEQb-4yBqdyhis74I/edit#' target='_blank'>Turnabout Dumb As A Brick</a>",
+      "Normal",
+      "2019/05/03"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1rnTTM2y_tN4dqv0EV_A7Qx-CwyYXuHwE2eSg7Idkrpw/edit#' target='_blank'>Turnabout Explosive Shits</a>",
+      "Normal",
+      "2019/02/28"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1IBYwjI74Pei4o64lE6W6Dq6uavSZ8RyQziLW3Go76Ik/edit#' target='_blank'>Turnabout Gunshot</a>",
+      "Normal",
+      "2019/03/15"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1CNcTWizu-mzkJM2JEstfVwj4VWsxesDDcXQtuXC1KMM/edit#' target='_blank'>Turnabout Have a Heart!</a>",
+      "Jury",
+      "2019/05/04"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1-AlcpOaYm0KPzbP-7Gk_IhVJCcX2u1JK7zt27SGyMMQ/edit#' target='_blank'>Turnabout I Fucking Hate The EU Ricochet Sound Knivecopters Make</a>",
+      "Normal",
+      "2019/03/05"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1uQX02Vp5yi0k2MdPa43cuyuPtQ6-l1y9j07cPPRjWXs/edit#' target='_blank'>A Turnabout Life in the Salt Mines</a>",
+      "Normal",
+      "2019/01/16"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1gcIeCu9y6jIGt3VB8BGlkbkg6Xb3d7wpQ6WkxKQYqys/edit#' target='_blank'>Turnabout Lighting Conditions</a>",
+      "Jury",
+      "2019/01/25"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1TB84Nc9PfhOrqA7obJZuBAanVuQ75DxyAkfALCLNvJw/edit#' target='_blank'>Medieval Turnabout</a>",
+      "Normal",
+      "2019/05/07"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1N5AuX6DSQhFgNKl6RsjjDjJWkc3ljomtOwLV7tSmRAk/edit#' target='_blank'>Nanomachines, Son</a>",
+      "Normal",
+      "2019/04/06"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1ac5IZauMInGUiLW5Zt-XEmY1tfU1EcVMe-gWUCNXra0/edit#' target='_blank'>Turnabout Out of Strokes</a>",
+      "Normal",
+      "2019/02/14"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1OzApcqxW2W_mdpeMY0zBYnaVX55vhSlbvWyKI1hYr0g/edit#' target='_blank'>Turnabout Pizza</a>",
+      "Normal",
+      "2019/03/17"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1_yDoTN7KMaiw7MuZ45dUGYUFiDlykj7609bGqw2rQgg/edit#' target='_blank'>The Prison Feud Turnabout</a>",
+      "Normal",
+      "2019/05/02"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1HNv6Bd91UUSoZhlOJu3q0m77Q3TxN_Qh8LydXG6BsRI/edit#' target='_blank'>A Reflective Turnabout</a>",
+      "Normal",
+      "2019/03/16"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1uzH2CuackoJAOiCptm_LfKh2tFmomzcf_DEgLteccA4/edit' target='_blank'>Turnabout Remote Beyblade</a>",
+      "Normal",
+      "2019/01/20"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1FiuL1p7Ucn-VN7I4L_kMMZ6KqcxXz_D3wBEWWuQBiuw/edit#' target='_blank'>Turnabout Shitty Rips</a>",
+      "Normal",
+      "2019/02/05"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1BcSUDsyd5zH6aFLwaip62t-mvkDnwiO7MYLL1bP7vLc/edit#' target='_blank'>The Simple Turnabout</a>",
+      "Lightning",
+      "2019/01/27"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1trb5U-G34XS0oIMFFJ7RkKm_mctU-WuHX5nha3HY7rw/edit#' target='_blank'>Turnabout Six Feet Under</a>",
+      "Normal",
+      "2019/01/25"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1p44BVKHmqzu7ssPwAWrYEkj_pKrYW3fUe_1NK3OfWWs/edit#' target='_blank'>The Snow Town Turnabout</a>",
+      "Normal",
+      "2019/03/29"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1DOwq5kR2Eyi5ctoHUzVkXzPGnc7T5Vvcwzg-L5tKVt4/edit#' target='_blank'>Turnabout Half-Baked</a>",
+      "Normal",
+      "2019/05/02"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1t3ngxBWRVW8zs2Nqig8ZO2bznAdFndO7q-mUE9-kGq8/edit#' target='_blank'>Turnabutt in the Nude</a>",
+      "Normal",
+      "2019/05/02"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1bcMCDG9e5dK8aMruHj6AuDuKCqXITp61tx7mtjG_3hM/edit#' target='_blank'>The Memetic Turnabout</a>",
+      "Normal",
+      "2019/01/19"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/18w9IazqBp18kezsDhVavAgwSMusvl_by-3ZSloNiuC8/edit#' target='_blank'>Turnabout Tanks A Lot</a>",
+      "Normal",
+      "2019/01/29"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1qizKfl3vfoEmBBSLTfCPrEjRohJnB-QxjgCGHpYdaSU/edit' target='_blank'>Turnabout Terrible Fate</a>",
+      "Normal",
+      "2019/03/09"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1CeY3TMzIvIr8PElC-XjXb9AoVM5LKOPB2rtNI64qBJo/edit#' target='_blank'>Turnabout Trick Your Ghost</a>",
+      "Normal",
+      "2019/03/18"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1k3U08TC3evDo-i4nRT7Ude8pIECrC7eqZG126DfA8Ls/edit#' target='_blank'>The Turnabout Thief</a>",
+      "Normal",
+      "2019/03/10"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1Fo4j0xCH1qW3UneyW257mIVrz968C949JG5rvkGpgnI/edit#' target='_blank'>Turnabout Tutorial N. 3562</a>",
+      "Normal",
+      "2019/05/04"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1ZkNHFZDPRlxdTzeorGsAv5igK0XhwiT3g9tZyAh6rzk/edit' target='_blank'>Turnabout We Got Loli's*</a>",
+      "Normal",
+      "2019/06/26"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1k5DTxH9J2S_J42_45Hds9_bLLDXHh2BpkdcNjYAFwdg/edit#' target='_blank'>Turnabout “We waited 7 hours for this”</a>",
+      "Normal",
+      "2019/01/26"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1ZVM4-knEIzyl76Fz5OYQGJAjxzq3OfaUebpoeD1kCrc/edit' target='_blank'>Turnabout Weeping Willow</a>",
+      "Normal",
+      "2019/05/18"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1se7YKK_nl1kgmVb178ZmYzCFla97YXYA_gKoS3r57mI/edit#' target='_blank'>Ye Ol' Wizened Chaos Trial</a>",
+      "Chaos",
+      "2019/01/17"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1tm-rOBFLfkbyTVokdcCFZvLik9Hr-_estJu56zo3fKo/edit' target='_blank'>You Are The Turnabout Superstar</a>",
+      "Normal",
+      "2019/04/18"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1Q7WSfLKMHcecY3U-A6gXOOmK_30N43cIaKlFtu79Wsc/edit#' target='_blank'>Turnabout Squashed Like A Bug</a> --- <a href='https://www.twitch.tv/videos/473325228' target='_blank'>(Video)</a>",
+      "Normal",
+      "2019/08/28"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1GiXJfvO3fePH6cCQPOcdL1RVZzo8SpbrWU6CPs4bWXQ/edit#' target='_blank'>Misplaced Turnabout</a>",
+      "Normal",
+      "2018/04/09"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1vZ5G_FFEuGG_XnFRDx3dtsS4aPfoP2mh2Lh6ad74IVU/edit#heading=h.m6zeda4g5bou' target='_blank'>Turnabout Ups and Downs</a>",
+      "Normal",
+      "2018/03/27"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1LciuPdT-ebZxiqbLMVkSD-LKm5f6ja80llX4Z2pjVls/edit' target='_blank'>Tempestuous Turnabout</a>",
+      "Normal",
+      "2018/03/24"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1wRJ9Dnp9Sss69W6K8FMXLyvG-T8fSZTwKd2aERuNYhQ/edit' target='_blank'>Turnabout Baker's Dillema</a>",
+      "Normal",
+      "2018/03/25"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/13ImBbOJfOizXR1fwk8_9P5WvYvriqrsCZYsMQ60BNQ0/edit' target='_blank'>Turnabout Not Another Teen Murder</a>",
+      "Normal",
+      "2018/03/23"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/19SVqADI2ERFJ2__5KVlcSKMyj97nrpPbvEzAynsFPvo/edit' target='_blank'>Turnabout of the Bands</a>",
+      "Normal",
+      "2018/01/14"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/164k10DA2dnCkuYYv6Q91OlYbVTKBtlx_inPrlMbLjgI/edit' target='_blank'>The Sweet Turnabout</a>",
+      "Normal",
+      "2018/03/10"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1gTXmbjWFvO60JUHwTHhpctszYhXbDplBabU427cm04w/edit?usp=sharing' target='_blank'>The Vivacious Victorian Turnabout</a>",
+      "Normal",
+      "2018/03/06"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1y7nLMQT7iiyZNxyWDoF_Fayim9KiPDVeG5OHxpqxU-w/edit' target='_blank'>Turnabout Mannequins</a>",
+      "Normal",
+      "2018/04/08"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1m3ZFhgpiVthyPP_R6qJI6GMSAEXjnNKo8zLLmnmA1Sw/edit' target='_blank'>A Wild Raging Turnabout</a>",
+      "Normal",
+      "2018/04/06"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1HQTjMMLfPBQz-3VZDszTqb4oJRJ65nfoe2nfuKEVINE/edit?usp=sharing' target='_blank'>Turnabout Party Crasher</a>",
+      "Normal",
+      "2018/04/04"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/10krHubnUyXMfo9Qv23DjiSABy-FiypTTkpsjT1PJxSI/edit#' target='_blank'>The Fishy Turnabout</a>",
+      "Normal",
+      "2018/04/05"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1qZRu_ZJ8I-ZbTMISPcRjYGY07kbZ7zAUZv41zjyg6cY/edit' target='_blank'>Turnabout in Self Defence</a>",
+      "Normal",
+      "2018/03/26"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1-HQUmP5MnvK3rQUutyUWWhgAg4yiQcIgLITTszs4whQ/edit' target='_blank'>A Fresh Spring Turnabout</a>",
+      "Normal",
+      "2018/04/04"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1N0_lnD9iRaE2QkdSoMuEAbUEQfM6P72m1VPZ2e87854/edit' target='_blank'>Turnabout Orbital Strike</a>",
+      "Normal",
+      "2018/03/25"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1l1BBav9mOtTO79_VzeueVIU8slc6AKyV2A7-Z3vL60E/edit' target='_blank'>PET(urnabout)A</a>",
+      "Normal",
+      "2018/03/27"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1bzaSAkWwvYvpXlQe57lQGef4SAHPpBxtOkDyO26Nhms/edit' target='_blank'>Turnabout Grief</a>",
+      "Normal",
+      "2018/04/03"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/18Oj4bSlc5aP5VDHUWQcg0mwI8kfr8_vPm3PN-IsD7kQ/edit' target='_blank'>Can't Burn Out The Turnabout</a> --- <a href='https://www.youtube.com/watch?v=vePNXH5oZ3M' target='_blank'>(Video)</a>",
+      "Normal",
+      "2018/04/02"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/12NsMtY_KJm71il_WolnBOMlzrXlcJwrreXaC3J2FMig/edit' target='_blank'>Batmanabout</a>",
+      "Normal",
+      "2018/03/09"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1_tWUBXfg7HP6ia0ErZSb7JlQ9XnhzwOgFTHL-M5qNtI/edit#' target='_blank'>The Sweet Turnabout II</a>",
+      "True AA",
+      "2018/03/21"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/17b59Idg5SA0tdeVu4eUf-9ObvmV4AKz88MF9pyVLKnw/edit' target='_blank'>Turnabout Enclave</a>",
+      "Normal",
+      "2018/03/18"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1Z6ZXsx4oDvGUeCAhYZKIKBMiN-hdTRRXCJ8Sh63FIK0/edit#' target='_blank'>Turnabout Sumtin</a>",
+      "Normal",
+      "2018/03/15"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1N0jl5d54zU8YCrvyg69yRZFdZjJyXggaEXjrofxaYtE/edit#' target='_blank'>Alt-Turnabout Best TurnabouT</a>",
+      "Normal",
+      "2018/02/24"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1XkiH0VCIQWe64nt7aJRXzLYD84ZjXu9HVSmhlQCqceA/edit' target='_blank'>Turnabout At 10 Knots</a>",
+      "Jury",
+      "2018/02/02"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1CDxQ09xKOpujNQDzwEaG3MTLQbHz_8IYWSoeoL-WGLw/edit' target='_blank'>Return of the DL-6's Turnabout</a>",
+      "Normal",
+      "2018/03/05"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1B7NJE4Z8VEJuxlLMIa0ns1iidMkBYj3R8UlBYwN4SRs/edit' target='_blank'>Turnabout Russia's Greatest Love Machine</a>",
+      "Normal",
+      "2018/02/14"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1oMZcBuLvRnkvMPGMrZulyM2losSuwV0Fp4y4LodHiCI/edit' target='_blank'>Turnabout Europa</a>",
+      "Normal",
+      "2018/03/03"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1BZRodt-xPq8kFIdmoAgofLAewZDZtlYdhA5HmoLmDZ4/edit' target='_blank'>Turnabout Shitfest</a>",
+      "Normal",
+      "2018/02/24"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1EhHJTwm01wAdbkFcBiA9x83MfmZ8g779DN82vSf-sUs/edit#' target='_blank'>Turnabout Survival</a>",
+      "Normal",
+      "2018/03/18"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1VDFV_34bP3CsGxHo-zQJCwIz3l24wLDooG1LwSaWrJ4/edit' target='_blank'>Turnabout Chandler</a>",
+      "Normal",
+      "2018/01/08"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1phIuthGqP4uKlQvEH9Q0oU6B2BZ4rNLCZzXl_cjHqFU/edit' target='_blank'>Turnabout Shitshow</a>",
+      "Normal",
+      "2018/02/28"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1ap4ANHw03PpB-IUJqSPatLYgBVb3JfFgWBBHX6ByqiQ/edit#' target='_blank'>Turnabout At 12 Knots</a>",
+      "Jury",
+      "2018/02/10"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1fSVZT1lkVsST2L_xdpfIt4MjiglZfRxdg7hPL23KzAA/edit' target='_blank'>Turnabout Spring is Broken</a>",
+      "Normal",
+      "2018/03/28"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/10XJU0TtBu3VDqkpEj3KkPoQQdECq7hDzqsQaLCW36kk/edit#' target='_blank'>The Good, The Bad and The Turnabout</a>",
+      "Normal",
+      "2018/02/28"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1p2HgJnRE5pgWG8V_zIj1EyEYy24Y-LqaxtXwltcp4AY/edit' target='_blank'>Turnabout Circus</a>",
+      "Normal",
+      "2018/03/12"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1wPP0cW0FLlzt8vHrE9VLpgkpb9U2dv_GjCf0suNb91Y/edit' target='_blank'>The high life Turnabout</a>",
+      "Normal",
+      "2018/03/15"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1gOL81zBRuyUV6FVu0UrXjLQXG83ANhzDKV-5hPVGK2k/edit' target='_blank'>Turnabout Road to Damnation</a> --- <a href='https://www.youtube.com/watch?v=E0YXIU_U78s' target='_blank'>(Video)</a>",
+      "Normal",
+      "2018/03/09"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1nK7HElH0UT64Hrf4KYYO-2cXKDC6EtsfT2AIzH0AEdg/edit' target='_blank'>Turnabout Loyalty</a>",
+      "Normal",
+      "2018/03/19"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1QkWdUtifiwKonnWLSqyjoea8vXQoIdMC5DH55Rzo6OI/edit' target='_blank'>Turnabout Slapshot</a>",
+      "Normal",
+      "2018/03/02"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1EhZGxX3juihp_HNyChiABbw53sw5JTFJvHtJj5fPVHo/edit' target='_blank'>Turnabout Dead or Alive</a>",
+      "Normal",
+      "2018/03/19"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1qV6Ulx0AgXTAOiZUId8aMg0JJ4UnwD0OWYFQzWtTGnM/edit' target='_blank'>Turnabout Final Frontier</a> --- <a href='https://www.youtube.com/watch?v=5mgJF2ZsoG0' target='_blank'>(Video)</a>",
+      "Normal",
+      "2018/01/23"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1wOGC7oXuOddTEQH5nnOCymkUp3RtHy_JDS9qPN8S65Q/edit' target='_blank'>For Whom the Bell Turnabouts</a>",
+      "Pre-Written",
+      "2018/03/08"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1Zi1or14eL4Sn4NhYQlQ-ZlWa-gBfc9hrngBFhwMznmE/edit' target='_blank'>Das Tǜrnäbõǖt</a>",
+      "Normal",
+      "2018/03/20"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/10u4SahtWQtlQZqF-s_h0rhbVZTGd9RRGr9ODpLpCRYk/edit' target='_blank'>Turnabout First Jacket Equation</a>",
+      "Normal",
+      "2018/04/10"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1Yjk2CfV4FmM07PouMciZcTRYl5EnCHFy8WoNzc-vlUk/edit' target='_blank'>A Monopoly Built on Turnabout</a>",
+      "Normal",
+      "2018/04/10"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1OtmpvpaYpf4octqoKqobC63RNh_HEeHHtAljm8jEVMs/edit' target='_blank'>Turnabout Jacket Math 101</a>",
+      "Normal",
+      "2018/03/28"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1_GzvvTCvh1-MLJq7irAjCctdeCqwW4Q8MnVKCalyOLI/edit' target='_blank'>Turnabout ZOO</a>",
+      "Normal",
+      "2018/04/11"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1rr7gVBx_FV4AL1baOaVmZn6aMVgmVJt5oI31lu9pmuY/edit' target='_blank'>Turnabout-Con</a>",
+      "Normal",
+      "2018/04/11"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1X5MXP4eZeVSgIG-13iym88uW-oVACt--5w5kR2HZwxk/edit' target='_blank'>An Aquatic Turnabout</a>",
+      "Normal",
+      "2018/04/12"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1XIXqV2DZmIJBvFycE904VylphVL8lz2NntNvGVxqbR4/edit' target='_blank'>A Putt and a Turnabout</a>",
+      "Normal",
+      "2018/04/13"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1Fu0tHM-UuEE7BtwUk8ALrO8XpiPWQA0qbaaGI-6WxR8/edit' target='_blank'>Turnabout Island Slasher</a>",
+      "Normal",
+      "2018/04/13"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1jdxMlfTMqhIx_jLgR12-06ZElQhI9Gs6r6DOgTLtLQ0/edit#' target='_blank'>☭ Better Red Than Turnabout ☭</a>",
+      "Normal",
+      "2018/04/09"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1CTdr07Zaa7uo_H2OM2SsGlLYhlx7NOyHrv5zoujQUWY/edit#' target='_blank'>A Deep Fried Turnabout</a>",
+      "Normal",
+      "2018/04/14"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1-5p1oYiCFqVPdeS4yx7V29ewDn_blGOB24780s-Ccq8/edit' target='_blank'>A Stormy Turnabout</a>",
+      "Normal",
+      "2018/04/15"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1OZmBMkJuVQEzBH35AoIwO-1u7AW3gzXvhrGFbbDKvCc/edit#' target='_blank'>Turnabout Ambush</a>",
+      "AAI",
+      "2018/04/14"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1Hqq-nQWB6644Vjb4RWJiB7m0WTwXdCgsaUcq2BJGTwg/edit' target='_blank'>Turnabout Scary Movie 4</a>",
+      "Normal",
+      "2018/02/11"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1mkBMVFgzS32jfc1bp2BegdGfTVCEoX1NjHWwulkP2Lk/edit' target='_blank'>Power Rangers: Tenacious Turnabout</a>",
+      "Normal",
+      "2018/02/15"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1lvVBzeI1-yuOkXR8Vl3eH7jui3Kc6dyrJWo5PVFH2eg/edit' target='_blank'>Unfinished Turnabout</a>",
+      "Normal",
+      "2018/04/14"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/17NCc0JKXU0y91nwbCf_pnFtgPrOkR0b7__iR-KJhRJw/edit#' target='_blank'>Turnabout Gone Fishin'</a>",
+      "Normal",
+      "2018/04/15"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1n7VfUEbkJDwHqDqlsTzuOGGpXOCruKeCaPUgVItJGVg/edit' target='_blank'>Turnabout Cold Cut</a>",
+      "Normal",
+      "2018/02/18"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1iKX0dlUMYM5PKASU6thfl6G1SNvyCKx1BXUJ-joiv4I/edit' target='_blank'>Turnabout Tutorial</a>",
+      "Normal",
+      "2018/02/22"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1NlmnamZEHeTLmeiveBVSEPOEADCLErWToFeLkSv4Xos/edit' target='_blank'>Turnabout Tundra</a>",
+      "Normal",
+      "2018/03/01"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1u6BYcLjPeqoXBYn65mt5pS6v6KsaJDGZmlkkBnvyKH4/edit#' target='_blank'>Turnabout in Pieces</a>",
+      "Normal",
+      "2018/03/04"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/149ZnGERztM4HRrVYltF1Q0izeR6y7sRaD6L5GUW8eSc/edit#' target='_blank'>The Triumphant Turnabout</a>",
+      "Normal",
+      "2018/02/28"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1cRasPGKWARLfkhoa54iOWMJ7HzFg1CEmG4BPSnAkVy0/edit#' target='_blank'>Paul Blorp: Turnabout Cop</a>",
+      "Normal",
+      "2018/03/05"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1jPOaf2MZ-4Pd2-KQ9M1Z_XZu9zBmPrUb_hsEdSgypEA/edit#' target='_blank'>Eat at Turnabout Joe's</a>",
+      "Normal",
+      "2018/03/08"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1GI4WmsV_pev0S0BgcstM4e5uUFxOF3b-m6Hz4IeYy1s/edit#' target='_blank'>20,000 Turnabouts Under the Sea</a>",
+      "Normal",
+      "2018/04/12"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/16WMlzZ87Wv8waA4xdlew7jbxARgeEF0dWGzWIZubbRI/edit' target='_blank'>Turnabout Betrayal</a>",
+      "Normal",
+      "2018/04/18"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1BRgYdafry92xH565UKPGttS1gyu_w6YxXppybI41G5Q/edit#' target='_blank'>Turnabout Chicken</a>",
+      "Normal",
+      "2018/04/19"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1wucf_DqXKBPAei8rCUHqtIiholigi03SUgWB9Iy9jC4/edit#' target='_blank'>Turnabout Moonlit Duel</a>",
+      "Normal",
+      "2018/03/16"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1nXluxEI_BWKbiuDMjJC4TxB-Zk3zqDKFJFj82aRj0Lw/edit' target='_blank'>Turnabout JOOSTICE</a>",
+      "Pre-Written",
+      "2018/04/19"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/11XAaqZ89sQsGwc5obMW4fXZ_l04cwv0DRHr3W7g5aKQ/edit' target='_blank'>Jacket Match 202</a>",
+      "Normal",
+      "2018/04/14"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1tm-rOBFLfkbyTVokdcCFZvLik9Hr-_estJu56zo3fKo/edit#' target='_blank'>You Are the Turnabout Super Star</a>",
+      "Normal",
+      "2018/04/20"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/15t0shqPOq5lnl4HDESXHRPgyExTildIiz-2zp0br-F8/edit' target='_blank'>Turnabout Treehouse</a>",
+      "Normal",
+      "2018/04/26"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1u9pvLZnoocNzPaM_W8ePqnSra74KFGwimWFuH-oPdoE/edit' target='_blank'>Lovely Turnabout We're Having</a>",
+      "Normal",
+      "2018/04/23"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1FZQOKfsbowI0GmunNMyROLGT8GSPutpy4ggeivWJFQw/edit#' target='_blank'>Turnabout Indict Steno</a>",
+      "Normal",
+      "2018/04/21"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1lvpteqXOlrCRUPSVjVEYC1N7Ui0lwFX3XJeyhLQxOLw/edit#' target='_blank'>A Turnabout on Mother's Day</a>",
+      "Normal",
+      "2018/05/14"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1yaAC7gw1IY1aFgZ8N0o2BpHbOfXzrpQ6UQOdQ90rfsU/edit#' target='_blank'>Turnabout Snowclone</a>",
+      "AAI",
+      "2018/01/05"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1liZD2Ln7T65S2WnSUMo1rmfmrPqN1c9yU1xPc8usFxQ/edit' target='_blank'>Turnabout Daisy</a>",
+      "Normal",
+      "2019/07/13"
+    ],
+[
+      "<a href='https://docs.google.com/document/d/1y3WSRoPbQQmWFYBomsRbPqJdWNKOhe5Iucf4KbpMQeg/edit' target='_blank'>Turnabout Frontier</a>",
+      "Normal",
+      "2019/12/08"
+    ]
+  ]
+}

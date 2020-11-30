@@ -1,0 +1,588 @@
+<!DOCTYPE html>
+<!-- saved from url=(0075)https://mdbootstrap.com/previews/docs/latest/html/images/half-bg-image.html -->
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Required meta tags always come first -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="theme-color" content="#5B1616" />
+    <title>AOV - Rules</title>
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css">
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Material Design Bootstrap -->
+    <link href="css/mdb.min.css" rel="stylesheet">
+    <!-- Your custom styles (optional) -->
+    <link href="css/style.css" rel="stylesheet">
+
+    <link rel="icon" href="img/clover.png">
+
+    <style>
+        body,
+        html {
+            height: 100%;
+            background-color: #F9F9F9;
+        }
+
+        .bg {
+            /* The image used */
+            background-image: url("img/bg_red1.jpg");
+
+            /* Full height */
+            height: 50%;
+
+            /* Center and scale the image nicely */
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+        .faqHeader {
+            font-size: 27px;
+            margin: 20px;
+        }
+
+        .panel-heading [data-toggle="collapse"]:after {
+            font-family: 'Glyphicons Halflings';
+            content: "e072";
+            /* "play" icon */
+            float: right;
+            color: #F58723;
+            font-size: 18px;
+            line-height: 22px;
+            /* rotate "play" icon from > (right arrow) to down arrow */
+            -webkit-transform: rotate(-90deg);
+            -moz-transform: rotate(-90deg);
+            -ms-transform: rotate(-90deg);
+            -o-transform: rotate(-90deg);
+            transform: rotate(-90deg);
+        }
+
+        .panel-heading [data-toggle="collapse"].collapsed:after {
+            /* rotate "play" icon from > (right arrow) to ^ (up arrow) */
+            -webkit-transform: rotate(90deg);
+            -moz-transform: rotate(90deg);
+            -ms-transform: rotate(90deg);
+            -o-transform: rotate(90deg);
+            transform: rotate(90deg);
+            color: #454444;
+        }
+
+        a {
+            color: inherit;
+        }
+
+        .vertical-center {
+            min-height: 50%;
+            /* Fallback for browsers do NOT support vh unit */
+            min-height: 50vh;
+            /* These two lines are counted as one :-)       */
+
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .intro {
+            color: white;
+            font-size: 45px;
+        }
+
+        h2 {
+            line-height: 0.4;
+        }
+
+        #about {
+            text-align: justify;
+            text-justify: inter-word;
+        }
+
+        .athena {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        #status {
+            padding: 20px 20px 5px 20px;
+        }
+
+        #GlobalContent {
+            margin-top: 10px;
+            padding: 5px;
+        }
+
+        #CasingContent {
+            margin-top: 10px;
+            padding: 5px;
+        }
+
+
+        .ruleLi {
+            margin: 0.5em 0;
+        }
+
+        ol {
+            counter-reset: item;
+        }
+
+        ol>li {
+            list-style-type: none;
+            counter-increment: item;
+        }
+
+        ol>li:before {
+            font-weight: bold;
+            content: counter(item) ". ";
+        }
+
+        table.rulestable,
+        tr.rulestable,
+        th.rulestable {
+            border-collapse: collapse;
+            background-color: #b5b5b5;
+            border: 1px solid black;
+        }
+
+        td.rulestable,
+        tr.rulestable {
+            background-color: #e3e3e3;
+            padding: 6px;
+        }
+
+        th.rulestable {
+            padding: 6px;
+        }
+    </style>
+    <style type="text/css">
+        /* Chart.js */
+        @-webkit-keyframes chartjs-render-animation {
+            from {
+                opacity: 0.99
+            }
+
+            to {
+                opacity: 1
+            }
+        }
+
+        @keyframes chartjs-render-animation {
+            from {
+                opacity: 0.99
+            }
+
+            to {
+                opacity: 1
+            }
+        }
+
+        .chartjs-render-monitor {
+            -webkit-animation: chartjs-render-animation 0.001s;
+            animation: chartjs-render-animation 0.001s;
+        }
+    </style>
+</head>
+
+<body aria-busy="true">
+
+    <nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar">
+        <div class="container">
+            <a class="navbar-brand" href="#">
+                <strong>AOV</strong>
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent-7"
+                aria-controls="navbarSupportedContent-7" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent-7">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="AOV">Home
+
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="faq">FAQ
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="downloads">Downloads
+                        </a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#">Rules
+                            <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="formats">Formats</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="templates">Templates</a>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
+                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Content
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" href="content">Content Home</a>
+                            <a class="dropdown-item external"
+                                href="https://docs.google.com/document/d/1eIoh6NWHoeKX9E3clXP-xVCIWeaHX2WrbOaUmnBhqJI/edit"
+                                target="_blank">Suggestions Document</a>
+                            <a class="dropdown-item external"
+                                href="https://docs.google.com/document/d/1Ynwl11Pqiass_LbD9itM3mARLdoO6h9UICLOgjvfvNw/edit"
+                                target="_blank">Content Rules</a>
+                            <a class="dropdown-item external"
+                                href="https://docs.google.com/document/d/1kqxY2Avk-kt72iApawH2IPVs9gFACFkj__v60MFm2V4/edit"
+                                target="_blank">Crossover Court Downloads</a>
+                        </div>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
+                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Community
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" href="archive">Case Archive</a>
+                            <a class="dropdown-item" href="competition">Competitions</a>
+                            <a class="dropdown-item" href="guides">Role Guides</a>
+                        </div>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="about">About Us
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="bg">
+
+        <div class="container vertical-center">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="intro text-center">Server Rules</div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <main>
+        </br>
+        </br>
+        <div class="container">
+            <div class="jumbotron">
+                <div class="col-sm-12 text-center">
+                    <p>
+                        <i class="small">
+                            As draconian as it sounds, the administration reserves the right to exercise judgement and
+                            interpretation of the rules or lack thereof.</br>
+                        </i>
+                    </p>
+                    <strong>Don't be a dick.</strong></br>
+                    <p class="small">
+                        <i>
+                            All rules effectively flow from this guiding principle. Roleplaying a dick, trolling, being
+                            sarcastic, or being rude does not a dick make.</br>
+                            Point is, don't purposefully try to ruin other people's fun.
+                        </i>
+                    </p>
+                </div>
+
+                <div class="col-sm-12 text-center">
+                    <button id="Global" type="button" class="btn btn-primary">Global Rules</button>
+                    <button id="Casing" type="button" class="btn btn-primary">Casing Rules</button>
+                    <a href="https://docs.google.com/document/d/1HZgWBVN7wOz0ZBwkWRY6E44aW_1D2J41CMhCGgztrcg/edit"
+                        target="_blank">
+                        <button id="Content" type="button" class="btn btn-primary">Content
+                            Policy &nbsp;<i class="fas fa-external-link-alt"></i></button>
+                    </a>
+                </div>
+
+                <!-- GLOBAL RULES -->
+                <div id="GlobalContent" class="row">
+                    <h3><strong>Global Rules</strong></h3>
+                    <ol>
+			<strong>Global rules apply to all areas at all times.</strong></br>
+                        <li class="ruleLi">You are free to do whatever you like so long as it abides by the server
+                            rules, and the laws in the server host country (currently the United States of America).
+                        </li>
+                        <li class="ruleLi">The only allowed language on the server is English.
+                            <ul><b>A.</b> Using disruptive special character or unicode characters (such as zalgo text)
+                                is not permitted.</ul>
+                        </li>
+                        <li class="ruleLi">You must be 18 years old or older.</li>
+                        <li class="ruleLi">Organizing or participating in "raids" on other servers, ie. joining
+                            them with the intention of antagonizing people under the banner of AOV is not tolerated and
+                            will be severely punished.
+                            <ul><b>A.</b> Sharing personal information about another user without their consent,
+                                otherwise known as "doxxing", in client, thread or Discord will be punished by permaban.
+                            </ul>
+                        </li>
+
+                        <li class="ruleLi">The server is split into different areas - Casing Rules generally apply to all,
+			with some exceptions:</li>
+                        <table class="rulestable">
+                            <tr class="rulestable">
+                                <th class="rulestable">Area 0 <br> (Basement)</th>
+                                <td class="rulestable">
+                                    Used as a landing zone upon joining, this area may be used for testing new content
+                                    that would not be allowed elsewhere.
+                                    </br><b>Non-server characters permitted</b>.
+                                    Spamming text and music IC is allowed (OOC spam is prohibited server-wide).
+                                </td>
+                            </tr>
+                            <tr class="rulestable">
+                                <th class="rulestable">Area 1-4 <br> (Courtrooms)</th>
+                                <td class="rulestable">Areas used for any format of Casing. All rules (Global and Casing) are enforced, <b>regardless of area
+                                        status</b>.</td>
+                            </tr>
+                            <tr class="rulestable">
+                                <th class="rulestable">Area 5 <br> (Arcade)</th>
+                                <td class="rulestable">Used as a more relaxed version of the courts, where you may play
+                                    other non-case games such as Mafia, DG's or Whose Court.</td>
+                            </tr>
+			    <tr class="rulestable">
+                                <th class="rulestable">Area 6 <br> (Crossover Arcade)</th>
+                                <td class="rulestable">An Arcade area allowing the use of non-server characters that don't violate
+                                    server-wide bans (MLP, Dolan).</br>
+					<b>Non-server characters permitted</b></td>
+                            </tr>
+                            <tr class="rulestable">
+                                <th class="rulestable">Area 7 <br> (Crossover Court)</th>
+                                <td class="rulestable">
+                                    A Courtroom area allowing the use of non-server characters that don't violate
+                                    server-wide bans (MLP, Dolan). </br>
+					<b>Non-server characters permitted</b>.
+                                </td>
+                            </tr>
+                            <tr class="rulestable">
+                                <th class="rulestable">Area 8 <br> (Lounge)</th>
+                                <td class="rulestable">
+                                    Used as a general chat room, casing rules do not apply except for <b>section
+                                        1-A</b>.
+                                </td>
+                            </tr>
+                        </table>
+
+                        <li class="ruleLi">Abusing or spamming server commands and features, such as OOC chat, "/need", "/g"
+                            or the Call Mod button is not allowed.
+                            <ul><b>A.</b> Calling mods for anything you feel you need help with is encouraged.</ul>
+                        </li>
+                        <li class="ruleLi">Instances of Erotic Roleplay (Also known as ERP, cybering, or textfucking)
+                            are prohibited
+                            <ul><b>A.</b> Note that this does not automatically include cases that have sexual content
+                                in them, but said cases are not a free pass to do so.</ul>
+                        </li>
+                        <li class="ruleLi">
+                            Not safe for work images are permitted, but must be preceded by a <b>NSFW</b> tag or some
+                            form of
+                            warning. Links to outright malicious or illegal websites are not permitted.
+                        </li>
+                        <li class="ruleLi">
+                            Posting or modifying of active documents (docbombing, vandalism) in other areas in or
+                            outside of the client is prohibited and may result in a permaban.
+                        </li>
+                        <li class="ruleLi">
+                            Character folders not part of the server package may not be used outside of permitted areas
+				(MLP and Dolan are banned server-wide).
+                        </li>
+                    </ol>
+                    <i>
+                        Report faulty moderator behaviour and/or appeal to bans by contacting us at our Mod Discord.
+                    </i>
+                </div>
+
+                <!-- CASING RULES -->
+                <div id="CasingContent" class="row" style="display:none">
+                    <h3><strong>Casing Rules</strong></h3>
+                    <ol>
+                        <li class="ruleLi">Disruptive actions that prevent people from talking,
+                            properly playing cases and other game formats is strictly prohibited.
+                            Disruptive actions include, but are not limited to:
+                            <ul><b>A.</b> Needlessly spamming text, sounds or music.
+                                This includes repeated use of the objection interruption mechanic
+                                and repeated use of long animations.</ul>
+                            <ul><b>B.</b> Removing people from a case they signed up for, for any reason other than
+                                breaking
+                                these rules.</ul>
+                            <ul><b>C.</b> Playing multiple roles in and/or participating in more than one case at a time
+                                without express permission from the participants.</ul>
+                            <ul><b>D.</b> Posting an active google document anywhere outside of the client, or within
+                                the
+                                client outside of the /doc command.</ul>
+                            <ul><b>E.</b> Vandalizing case materials such as evidence,
+                                google documents, or other such items.</ul>
+                        </li>
+                        <li class="ruleLi">Interrupting cases needlessly via ((OOC talk))
+                            is prohibited. If you wish to communicate out-of-character,
+                            the OOC chat is the place for this.
+                            <p class="small"><i>Due to the ease of understanding when an area is casing or not,
+                                    ignorance is not an excuse.</i></p>
+                        </li>
+			<li class="ruleLi">Do not use shownames outside the context of casing/roleplay. 
+				This means when an area is idle and using personal Out of Character (OOC) names. 
+				It is made to enhance roleplay, not bring attention to yourself.
+			</li>
+                        <li class="ruleLi">You are allowed to switch (edit char.ini) only to characters that are
+                            part of the official server content pack.
+                            MLP characters and Dolan are banned server-wide.
+                            <ul><b>A.</b> The MLP and Dolan ban extends to and
+                                includes evidence and use of said evidence.</ul>
+                        </li>
+                        <li class="ruleLi">Conduct during a case can be defined by rules within a case document,
+                            which everyone participating in the case must agree on and abide by.</li>
+                        <li class="ruleLi">Case crashing as <b>any role</b>, which is defined by actions that
+                            are purely detrimental to case progression, is strictly prohibited.</li>
+                    </ol>
+                    <i>
+                        Report faulty moderator behaviour and/or appeal to bans by contacting us at our Mod Discord.
+                    </i>
+                </div>
+            </div>
+
+            <div class="jumbotron">
+                <!-- EXTRA -->
+                <div id="status" class="row">
+                    <h3><strong>Punishments</strong></h3>
+                    <p>
+                        A moderator’s first action should be to tell you to in no complex terms, “Cut that shit out”. In
+                        general, they shall err on the side of caution and give people the benefit of the doubt. If an
+                        individual is found to be repeatedly violating the rules (Twice or more is a good example) then
+                        temporary bans of a day to a week are to be utilized.
+                        </br>
+                        Permanent bans are reserved only for major rule violations (EG: Global rule 1), when a user is
+                        unresponsive to administration, or when considered to be no longer welcome within the community.
+                    </p>
+                    <h3><strong>Moderators</strong></h3>
+                    <p>
+                        If someone claims to be a moderator and gives the players an order or threat, request them to
+                        send a local mod message in OOC. If they don't, you may completely ignore them.
+                        Moderators are the only ones capable of using the OOC identifier <b>$MOD[Name]</b> and the
+                        Global chat mod flag <b>[M]</b>.
+                        </br>If someone claims to be a mod, you may ask them to prove it.
+                        <b>Impersonation is bannable.</b></br></br>
+                        Moderators using these features are to be considered acting in an official capacity and any
+			warnings or directions given via such methods should be followed. 
+			If you believe that abuse has been made on the part of the moderators, 
+			please direct your concerns to the Mod
+                        Contact Discord.
+                    </p>
+                    <h3><strong>Roleplaying</strong></h3>
+                    <p>
+                        Attorney Online Vidya is a roleplaying server. Every role tends toward a certain “mindset”,
+                        although
+                        the character you choose to play can have virtually any personality you wish with no regard for
+                        their personalities from their games. While other styles are not strictly prohibited, the style
+                        of
+                        roleplay and case format followed on the server is generally based in <b>improvisation</b>.
+                    </p>
+                    <p>
+                        Generally, the premise of a case (evidence, location) are set up in advance, and virtually
+                        everything else is left to the discretion of the players signed up. For the sake of everyone
+                        else’s
+                        enjoyment as well as your own, there is one core tenet that defines improv theater, which shares
+                        many similarities with our way of casing:
+                    </p>
+                    <p><strong>"Say Yes."</strong>
+                        </br>
+                        *Within Reason.
+                    </p>
+                    <p>
+                        When players express a willingness to cooperate with each other and roll with what is said
+                        during a
+                        case, the experience is enriched for everyone involved. More often than not, one stick in the
+                        mud
+                        can drag an entire case down and make everyone miserable, destroying any semblance of fun in the
+                        game.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="page-footer font-small grey darken-4">
+
+        <!-- Footer Elements -->
+        <div class="container text-center athena">
+
+            <!-- Grid row-->
+            <div class="row">
+
+                <!-- Grid column -->
+                <div class="col-sm-6 py-2 mb-3">
+                    </br>
+                    <a class="lead" href="https://discordapp.com/invite/tKew3hK" target="_blank"><i
+                            class="fab fa-discord fa-2x indigo-text"></i></a>
+                    </br>
+                    <a class="lead" href="https://discordapp.com/invite/tKew3hK" target="_blank">Community</a>
+                </div>
+
+                <div class="col-sm-6 py-2 mb-3">
+                    </br>
+                    <a class="lead" href="https://discord.gg/ZvzhPBj" target="_blank"><i
+                            class="fab fa-discord fa-2x red-text"></i></a>
+                    </br>
+                    <a class="lead" href="https://discord.gg/ZvzhPBj" target="_blank">Mod Server</a>
+                </div>
+                <!-- Grid column -->
+
+            </div>
+            <!-- Grid row-->
+
+        </div>
+        <!-- Footer Elements -->
+
+        <!-- Copyright -->
+        <div class="footer-copyright text-center">&#169; 2020 Attorney Online Vidya
+        </div>
+        <!-- Copyright -->
+
+    </footer>
+    <!-- Footer -->
+
+    <!-- SCRIPTS -->
+
+    <!-- JQuery -->
+    <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+    <!-- Bootstrap tooltips -->
+    <script type="text/javascript" src="js/popper.min.js"></script>
+    <!-- Bootstrap core JavaScript -->
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <!-- MDB core JavaScript -->
+    <script type="text/javascript" src="js/mdb.js"></script>
+
+    <!-- Time for some garbage -->
+    <script>
+        $(document).ready(function () {
+            $('#Global').addClass("btn-outline-primary");
+        });
+
+        $('#Global').on('click', function () {
+            $('#GlobalContent').show();
+            $('#CasingContent').hide();
+
+            $('#Casing').removeClass("btn-outline-primary");
+            $(this).addClass("btn-outline-primary");
+        });
+
+        $('#Casing').on('click', function () {
+            $('#GlobalContent').hide();
+            $('#CasingContent').show();
+
+            $('#Global').removeClass("btn-outline-primary");
+            $(this).addClass("btn-outline-primary")
+        });
+    </script>
+
+</body>
+
+</html>
