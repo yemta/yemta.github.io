@@ -15,6 +15,7 @@ header,
     height: 1000px;
   }
 }
+
 @media (min-width: 800px) and (max-width: 850px) {
   html,
   body,
@@ -35,6 +36,28 @@ header,
 .navbar:not(.top-nav-collapse) {
   background: transparent !important;
 }
+
+.external::after {
+  font-family: "Font Awesome 5 Free";
+  content: "\f35d";
+  display: inline-block;
+  position: relative;
+  top: -1px;
+  font-weight: 900;
+  font-size: 11px;
+  margin: 0 0 0 5px;
+}
+
+.dropdown-item.active,
+    .dropdown-item:active {
+      color: #fff;
+      background-color: #f7df9c;
+    }
+
+.dropdown-item:hover:not(.active) {
+      background-color: #e0e0e0;
+    }
+
 
 @media (max-width: 991px) {
   .navbar:not(.top-nav-collapse) {
