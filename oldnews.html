@@ -1,0 +1,582 @@
+<!DOCTYPE html>
+<!-- saved from url=(0075)https://mdbootstrap.com/previews/docs/latest/html/images/half-bg-image.html -->
+<html lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <!-- Required meta tags always come first -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="theme-color" content="#5B1616" />
+  <title>AOV - News Archive</title>
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css">
+  <!-- Bootstrap core CSS -->
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <!-- Material Design Bootstrap -->
+  <link href="css/mdb.min.css" rel="stylesheet">
+  <!-- Your custom styles (optional) -->
+  <link href="css/style.css" rel="stylesheet">
+
+  <link rel="icon" href="img/clover.png">
+
+  <style>
+    body,
+    html {
+      height: 100%;
+      background-color: #F9F9F9;
+    }
+
+    .bg {
+      /* The image used */
+      background-image: url("img/bg_red1.jpg");
+
+      /* Full height */
+      height: 50%;
+
+      /* Center and scale the image nicely */
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+
+    .faqHeader {
+      font-size: 27px;
+      margin: 20px;
+    }
+
+    .panel-heading [data-toggle="collapse"]:after {
+      font-family: 'Glyphicons Halflings';
+      content: "e072";
+      /* "play" icon */
+      float: right;
+      color: #F58723;
+      font-size: 18px;
+      line-height: 22px;
+      /* rotate "play" icon from > (right arrow) to down arrow */
+      -webkit-transform: rotate(-90deg);
+      -moz-transform: rotate(-90deg);
+      -ms-transform: rotate(-90deg);
+      -o-transform: rotate(-90deg);
+      transform: rotate(-90deg);
+    }
+
+    .panel-heading [data-toggle="collapse"].collapsed:after {
+      /* rotate "play" icon from > (right arrow) to ^ (up arrow) */
+      -webkit-transform: rotate(90deg);
+      -moz-transform: rotate(90deg);
+      -ms-transform: rotate(90deg);
+      -o-transform: rotate(90deg);
+      transform: rotate(90deg);
+      color: #454444;
+    }
+
+    .vertical-center {
+      min-height: 50%;
+      /* Fallback for browsers do NOT support vh unit */
+      min-height: 50vh;
+      /* These two lines are counted as one :-)       */
+
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .intro {
+      color: white;
+      font-size: 45px;
+    }
+
+    h2 {
+      line-height: 0.4;
+    }
+
+    #about {
+      text-align: justify;
+      text-justify: inter-word;
+    }
+
+    .athena {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    #status {
+      padding: 20px 20px 5px 20px;
+    }
+  </style>
+  <style type="text/css">
+    /* Chart.js */
+    @-webkit-keyframes chartjs-render-animation {
+      from {
+        opacity: 0.99
+      }
+
+      to {
+        opacity: 1
+      }
+    }
+
+    @keyframes chartjs-render-animation {
+      from {
+        opacity: 0.99
+      }
+
+      to {
+        opacity: 1
+      }
+    }
+
+    .chartjs-render-monitor {
+      -webkit-animation: chartjs-render-animation 0.001s;
+      animation: chartjs-render-animation 0.001s;
+    }
+  </style>
+</head>
+
+<body aria-busy="true">
+
+  <nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar">
+    <div class="container">
+      <a class="navbar-brand" href="#">
+        <strong>AOV</strong>
+      </a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent-7"
+        aria-controls="navbarSupportedContent-7" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent-7">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="AOV">Home
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="faq">FAQ
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="downloads">Downloads</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="rules">Rules</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="formats">Formats</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="templates">Templates</a>
+          </li>
+
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
+              data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Content
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+              <a class="dropdown-item" href="content">Content Home</a>
+              <a class="dropdown-item external"
+                href="https://docs.google.com/document/d/1eIoh6NWHoeKX9E3clXP-xVCIWeaHX2WrbOaUmnBhqJI/edit"
+                target="_blank">Suggestions Document</a>
+              <a class="dropdown-item external"
+                href="https://docs.google.com/document/d/1Ynwl11Pqiass_LbD9itM3mARLdoO6h9UICLOgjvfvNw/edit"
+                target="_blank">Content Rules</a>
+              <a class="dropdown-item external"
+                href="https://docs.google.com/document/d/1kqxY2Avk-kt72iApawH2IPVs9gFACFkj__v60MFm2V4/edit"
+                target="_blank">Crossover Court Downloads</a>
+            </div>
+          </li>
+
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
+              data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Community
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+              <a class="dropdown-item" href="archive">Case Archive</a>
+              <a class="dropdown-item" href="competition">Competitions</a>
+              <a class="dropdown-item" href="guides">Role Guides</a>
+            </div>
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link" href="about">About Us</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div class="bg">
+
+    <div class="container vertical-center">
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="intro text-center">News and Updates Archive</div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="container">
+    <main>
+      </br>
+      <h5 class="text-center">
+        <a href="AOV">Back to Home Page &#187;
+        </a>
+      </h5>
+      <hr>
+
+      <h2 class="text-center">
+        <strong><b>2020</b></strong>
+        <strong>|</strong>
+        <a href="oldnews2019"><strong>2019</strong></a>
+      </h2>
+      </br>
+      <!-- Row 1 -->
+      <div class="row">
+
+
+        <!-- First Item -->
+
+	<div class="col-sm-12 col-lg-4">
+          <div class="card mb-4 mx-auto" style="width: 18rem;">
+            <a href="https://docs.google.com/document/d/1HxpHzrHHHQkLUjxT2EP1GcSVCv4uAJhqUN0sZdp3vxA/edit">
+              <img class="card-img-top" src="img/news/cavecliff.jpg" alt="Caves and Cliffs">
+            </a>
+            <div class="card-body">
+              <h5 class="card-title"><a
+                  href="https://docs.google.com/document/d/1HxpHzrHHHQkLUjxT2EP1GcSVCv4uAJhqUN0sZdp3vxA/edit">The
+                  Caves and Cliffs Update</a>
+              </h5>
+              <p class="card-text"><i>"I'm not an entrepreneur. I'm not a CEO. I'm a nerdy computer programmer who likes
+                  to have opinions on Twitter."</i>
+                </br>-Markus Persson
+              </p>
+            </div>
+            <div class="card-footer text-muted">
+              2020/11/08<span style="float:right;">Update</span>
+            </div>
+          </div>
+        </div>
+
+
+	<div class="col-sm-12 col-lg-4">
+          <div class="card mb-4 mx-auto" style="width: 18rem;">
+            <a href="https://docs.google.com/document/d/1tV1Y_aTVfXwgGOrTDa-XRCpQRe6Ifvaz_BfsHArCieM/edit">
+              <img class="card-img-top" src="img/news/halloween2019.jpg" alt="HalloContent2020">
+            </a>
+            <div class="card-body">
+              <h5 class="card-title"><a
+                  href="https://docs.google.com/document/d/1tV1Y_aTVfXwgGOrTDa-XRCpQRe6Ifvaz_BfsHArCieM/edit">Halloween
+                  Case and Sprite Contest 2020</a>
+              </h5>
+              <p class="card-text">
+		The AOV Case and Sprite creation contest is back for 2020!
+		<br/>Check out the contest document to find out more information and how to enter!
+		<br/><b>Winners have been announced!</b>
+              </p>
+            </div>
+            <div class="card-footer text-muted">
+              2020/10/10<span style="float:right;">Contest</span>
+            </div>
+          </div>
+        </div>
+
+
+	<div class="col-sm-12 col-lg-4">
+          <div class="card mb-4 mx-auto" style="width: 18rem;">
+            <a href="https://docs.google.com/document/d/10-Lli4su_BkOOUav855PVw6nKsx5e6YYwbU_OAurbHk/edit">
+              <img class="card-img-top" src="img/news/tricktrap.png" alt="Trick and Trap">
+            </a>
+            <div class="card-body">
+              <h5 class="card-title"><a
+                  href="https://docs.google.com/document/d/10-Lli4su_BkOOUav855PVw6nKsx5e6YYwbU_OAurbHk/edit">The
+                  Tricks and Traps Update</a>
+              </h5>
+              <p class="card-text"><i>"That'll cost... 'Extra.'"</i>
+                </br>-The cashier at Burrito Store
+              </p>
+            </div>
+            <div class="card-footer text-muted">
+              2020/10/04<span style="float:right;">Update</span>
+            </div>
+          </div>
+        </div>
+
+
+	<div class="col-sm-12 col-lg-4">
+          <div class="card mb-4 mx-auto" style="width: 18rem;">
+            <a href="https://docs.google.com/document/d/1-MCcmzlBFnCK43ZdM8DOxE2lcYwbk2rGeMwZ0_FL7pc/edit#">
+              <img class="card-img-top" src="img/news/clientcontent1.png" alt="Client and Content">
+            </a>
+            <div class="card-body">
+              <h5 class="card-title"><a
+                  href="https://docs.google.com/document/d/1-MCcmzlBFnCK43ZdM8DOxE2lcYwbk2rGeMwZ0_FL7pc/edit#">
+                  The Client and Content Update</a>
+              </h5>
+              <p class="card-text"><i>"Please look forward to it."</i>
+                </br>-Many a dev team, shortly before disaster
+              </p>
+            </div>
+            <div class="card-footer text-muted">
+              2020/09/05<span style="float:right;">Update</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-sm-12 col-lg-4">
+          <div class="card mb-4 mx-auto" style="width: 18rem;">
+            <a href="https://docs.google.com/document/d/1__yytVDaEGqplVBvJPxhyShqY6x9E_vtdv8hDCl3d_g/edit">
+              <img class="card-img-top" src="img/news/hutch28.png" alt="Client and Content">
+            </a>
+            <div class="card-body">
+              <h5 class="card-title"><a
+                  href="https://docs.google.com/document/d/1__yytVDaEGqplVBvJPxhyShqY6x9E_vtdv8hDCl3d_g/edit">
+                  AO 2.8 Client</br></a>
+              </h5>
+              <p class="card-text">
+                The client version has been updated to 2.8! To see the big new features, 
+                take a look at this document!
+                <br/>The Beginner's Guide has also been updated to reflect the new features.
+              </p>
+            </div>
+            <div class="card-footer text-muted">
+              2020/09/05<span style="float:right;">News</span>
+            </div>
+          </div>
+        </div>
+
+
+	<div class="col-sm-12 col-lg-4">
+          <div class="card mb-4 mx-auto" style="width: 18rem;">
+            <a href="https://docs.google.com/document/d/1w6HGixC5df1DBykC0Dvo8uUkfK6Cj02ODPXLdSkw1Wg/edit#">
+              <img class="card-img-top" src="img/news/revampingB.png" alt="Record-Spinning and Revamping">
+            </a>
+            <div class="card-body">
+              <h5 class="card-title"><a
+                  href="https://docs.google.com/document/d/1w6HGixC5df1DBykC0Dvo8uUkfK6Cj02ODPXLdSkw1Wg/edit#">The
+                  Record-Spinning</br>
+                  and Revamping Update</a>
+              </h5>
+              <p class="card-text"><i>"Meow"</i>
+                </br>-Sissel, probably
+              </p>
+            </div>
+            <div class="card-footer text-muted">
+              2020/08/01<span style="float:right;">Update</span>
+            </div>
+          </div>
+        </div>
+
+
+	<div class="col-sm-12 col-lg-4">
+          <div class="card mb-4 mx-auto" style="width: 18rem;">
+            <a href="https://docs.google.com/document/d/1qS8r4d7fSWuHjb8-bTFkkAPmLBwrto18phEX_0awDro/edit">
+              <img class="card-img-top" src="img/news/4thJulyb.jpg" alt="Stars and Stripes">
+            </a>
+            <div class="card-body">
+              <h5 class="card-title"><a
+                  href="https://docs.google.com/document/d/1qS8r4d7fSWuHjb8-bTFkkAPmLBwrto18phEX_0awDro/edit">The
+                  Stars and Stripes Update</a>
+              </h5>
+              <p class="card-text"><i>"God bless the U.S.A.!"</i>
+                </br>-Lee Greenwood
+              </p>
+            </div>
+            <div class="card-footer text-muted">
+              2020/07/04<span style="float:right;">Update</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-sm-12 col-lg-4">
+          <div class="card mb-4 mx-auto" style="width: 18rem;">
+            <a href="https://docs.google.com/document/d/1quRAl39Jc032gIWtneJVWtiaDlkIIpwFIFtzWMNm7tA/edit#">
+              <img class="card-img-top" src="img/news/bellsupdate.jpg" alt="Bells and Whistles">
+            </a>
+            <div class="card-body">
+              <h5 class="card-title"><a
+                  href="https://docs.google.com/document/d/1quRAl39Jc032gIWtneJVWtiaDlkIIpwFIFtzWMNm7tA/edit#">The
+                  Bells and Whistles Update</a>
+              </h5>
+              <p class="card-text"><i>"Every morning I jump out of bed and land on a landmine. The landmine is me.”</i>
+                </br>-Ray Bradbury
+              </p>
+            </div>
+            <div class="card-footer text-muted">
+              2020/06/06<span style="float:right;">Update</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-sm-12 col-lg-4">
+          <div class="card mb-4 mx-auto" style="width: 18rem;">
+            <a href="https://docs.google.com/document/d/10YJrAiWrPTWARwpSm84emkAe7TUC1rA-ytGLFbH7F-0/edit#">
+              <img class="card-img-top" src="img/news/clean.png" alt="Simple and Clean">
+            </a>
+            <div class="card-body">
+              <h5 class="card-title"><a
+                  href="https://docs.google.com/document/d/10YJrAiWrPTWARwpSm84emkAe7TUC1rA-ytGLFbH7F-0/edit#">The
+                  Simple and Clean Update</a>
+              </h5>
+              <p class="card-text"><i>"You're not fully clean unless you're Zestfully clean!"</i>
+                </br>-James Jordan
+              </p>
+            </div>
+            <div class="card-footer text-muted">
+              2020/05/02<span style="float:right;">Update</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-sm-12 col-lg-4">
+          <div class="card mb-4 mx-auto" style="width: 18rem;">
+            <a href="https://docs.google.com/document/d/13PcIbpMEGKW6zBzLikC6TxMUa_z2NBkmNp8CmfDwXyM/edit">
+              <img class="card-img-top" src="img/news/sickness.png" alt="Sick and Spreading">
+            </a>
+            <div class="card-body">
+              <h5 class="card-title"><a
+                  href="https://docs.google.com/document/d/13PcIbpMEGKW6zBzLikC6TxMUa_z2NBkmNp8CmfDwXyM/edit">
+                  The Sick and Spreading Update</a>
+              </h5>
+              <p class="card-text">
+                <i>"I hear the miasma...it whispers of suffering!"</i>
+                </br>-Plague Doctor, 2016
+              </p>
+            </div>
+            <div class="card-footer text-muted">
+              2020/04/04<span style="float:right;">Update</span>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="col-sm-12 col-lg-4">
+          <div class="card mb-4 mx-auto" style="width: 18rem;">
+            <a href="https://docs.google.com/document/d/1VJy9LaxC3-OTwzvl0sbXxRzCYi1ufAo_f2p3pgb0VsQ/edit">
+              <img class="card-img-top" src="img/news/beegupdate.jpg" alt="Big and Beautiful">
+            </a>
+            <div class="card-body">
+              <h5 class="card-title"><a
+                  href="https://docs.google.com/document/d/1VJy9LaxC3-OTwzvl0sbXxRzCYi1ufAo_f2p3pgb0VsQ/edit">
+                  The Big and Beautiful Update</a>
+              </h5>
+              <p class="card-text">
+                <i>"You wanna put a bangin' donk on it!"</i>
+                </br>-The Blackout Crew
+              </p>
+            </div>
+            <div class="card-footer text-muted">
+              2020/03/01<span style="float:right;">Update</span>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="col-sm-12 col-lg-4">
+          <div class="card mb-4 mx-auto" style="width: 18rem;">
+            <a href="https://docs.google.com/document/d/1r8LQh0pNlx-Znc6kzbnYXxRfRvnq9Vplxmx6eskWMRw/edit">
+              <img class="card-img-top" src="img/news/bitsandpieces.png" alt="Bits and Pieces">
+            </a>
+            <div class="card-body">
+              <h5 class="card-title"><a
+                  href="https://docs.google.com/document/d/1r8LQh0pNlx-Znc6kzbnYXxRfRvnq9Vplxmx6eskWMRw/edit">
+                  The Bits and Pieces Update</a>
+              </h5>
+              <p class="card-text">
+                <i>"[...] I'm happy with what I accomplished."</i>
+                </br>-Andrew Allanson, creator of a buggy mess
+              </p>
+            </div>
+            <div class="card-footer text-muted">
+              2020/02/01<span style="float:right;">Update</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-sm-12 col-lg-4">
+          <div class="card mb-4 mx-auto" style="width: 18rem;">
+            <a href="https://docs.google.com/document/d/1ug5HGOw7GGw9TK9xtpnwPhPpnWc-m2U_3J0vRbzSuoE/edit#">
+              <img class="card-img-top" src="img/news/LawDisorderUpdate.png" alt="Law & Disorder">
+            </a>
+            <div class="card-body">
+              <h5 class="card-title"><a
+                  href="https://docs.google.com/document/d/1ug5HGOw7GGw9TK9xtpnwPhPpnWc-m2U_3J0vRbzSuoE/edit#">The
+                  Law & Disorder Update</a>
+              </h5>
+              <p class="card-text">Happy New Year and Happy 4th AOV Anniversary!
+                </br>
+                Our gift to you this New Year - An actual update, including new emotes, fixes and songs!
+              </p>
+            </div>
+            <div class="card-footer text-muted">
+              2020/01/04<span style="float:right;">Update</span>
+            </div>
+          </div>
+        </div>
+
+      </div>
+  </div>
+  </br>
+  </main>
+
+  <!-- Footer -->
+  <footer class="page-footer font-small grey darken-4">
+
+    <!-- Footer Elements -->
+    <div class="container text-center athena">
+
+      <!-- Grid row-->
+      <div class="row">
+
+        <!-- Grid column -->
+        <div class="col-sm-6 py-2 mb-3">
+          </br>
+          <a class="lead" href="https://discordapp.com/invite/tKew3hK" target="_blank"><i
+              class="fab fa-discord fa-2x indigo-text"></i></a>
+          </br>
+          <a class="lead" href="https://discordapp.com/invite/tKew3hK" target="_blank">Community</a>
+        </div>
+
+        <div class="col-sm-6 py-2 mb-3">
+          </br>
+          <a class="lead" href="https://discord.gg/ZvzhPBj" target="_blank"><i
+              class="fab fa-discord fa-2x red-text"></i></a>
+          </br>
+          <a class="lead" href="https://discord.gg/ZvzhPBj" target="_blank">Mod Server</a>
+        </div>
+        <!-- Grid column -->
+
+      </div>
+      <!-- Grid row-->
+
+    </div>
+    <!-- Footer Elements -->
+
+    <!-- Copyright -->
+    <div class="footer-copyright text-center">&#169; 2020 Attorney Online Vidya
+    </div>
+    <!-- Copyright -->
+
+  </footer>
+  <!-- Footer -->
+
+  <!-- SCRIPTS -->
+
+  <!-- JQuery -->
+  <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+  <!-- Bootstrap tooltips -->
+  <script type="text/javascript" src="js/popper.min.js"></script>
+  <!-- Bootstrap core JavaScript -->
+  <script type="text/javascript" src="js/bootstrap.min.js"></script>
+  <!-- MDB core JavaScript -->
+  <script type="text/javascript" src="js/mdb.js"></script>
+
+
+
+</body>
+
+</html>

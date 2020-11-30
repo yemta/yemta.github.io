@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<!-- saved from url=(0075)https://mdbootstrap.com/previews/docs/latest/html/images/half-bg-image.html -->
+<html lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <!-- Required meta tags always come first -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="theme-color" content="#5B1616" />
+  <title>AOV - Guides</title>
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css">
+  <!-- Bootstrap core CSS -->
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <!-- Material Design Bootstrap -->
+  <link href="css/mdb.min.css" rel="stylesheet">
+  <!-- Your custom styles (optional) -->
+  <link href="css/style.css" rel="stylesheet">
+
+  <link rel="icon" href="img/clover.png">
+
+  <style>
+    body,
+    html {
+      height: 100%;
+      background-color: #F9F9F9;
+    }
+
+    .bg {
+      /* The image used */
+      background-image: url("img/bg_red1.jpg");
+
+      /* Full height */
+      height: 50%;
+
+      /* Center and scale the image nicely */
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+
+    .faqHeader {
+      font-size: 27px;
+      margin: 20px;
+    }
+
+    .panel-heading [data-toggle="collapse"]:after {
+      font-family: 'Glyphicons Halflings';
+      content: "e072";
+      /* "play" icon */
+      float: right;
+      color: #F58723;
+      font-size: 18px;
+      line-height: 22px;
+      /* rotate "play" icon from > (right arrow) to down arrow */
+      -webkit-transform: rotate(-90deg);
+      -moz-transform: rotate(-90deg);
+      -ms-transform: rotate(-90deg);
+      -o-transform: rotate(-90deg);
+      transform: rotate(-90deg);
+    }
+
+    .panel-heading [data-toggle="collapse"].collapsed:after {
+      /* rotate "play" icon from > (right arrow) to ^ (up arrow) */
+      -webkit-transform: rotate(90deg);
+      -moz-transform: rotate(90deg);
+      -ms-transform: rotate(90deg);
+      -o-transform: rotate(90deg);
+      transform: rotate(90deg);
+      color: #454444;
+    }
+
+    .vertical-center {
+      min-height: 50%;
+      /* Fallback for browsers do NOT support vh unit */
+      min-height: 50vh;
+      /* These two lines are counted as one :-)       */
+
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .intro {
+      color: white;
+      font-size: 45px;
+    }
+
+    h2 {
+      line-height: 0.4;
+    }
+
+    p {
+      text-align: justify;
+      text-justify: inter-word;
+    }
+
+    .athena {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    #dwnld {
+      color: black;
+      text-decoration: underline;
+    }
+
+    .jumbotron {
+      height: 80%;
+    }
+  </style>
+  <style type="text/css">
+    /* Chart.js */
+    @-webkit-keyframes chartjs-render-animation {
+      from {
+        opacity: 0.99
+      }
+
+      to {
+        opacity: 1
+      }
+    }
+
+    @keyframes chartjs-render-animation {
+      from {
+        opacity: 0.99
+      }
+
+      to {
+        opacity: 1
+      }
+    }
+
+    .chartjs-render-monitor {
+      -webkit-animation: chartjs-render-animation 0.001s;
+      animation: chartjs-render-animation 0.001s;
+    }
+  </style>
+</head>
+
+<body aria-busy="true">
+
+  <nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar">
+    <div class="container">
+      <a class="navbar-brand" href="#">
+        <strong>AOV</strong>
+      </a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent-7"
+        aria-controls="navbarSupportedContent-7" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent-7">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="AOV">Home
+
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="faq">FAQ
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="downloads">Downloads
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="rules">Rules</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="formats">Formats</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="templates">Templates</a>
+          </li>
+
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
+              data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Content
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+              <a class="dropdown-item" href="content">Content Home</a>
+              <a class="dropdown-item external"
+                href="https://docs.google.com/document/d/1eIoh6NWHoeKX9E3clXP-xVCIWeaHX2WrbOaUmnBhqJI/edit"
+                target="_blank">Suggestions Document</a>
+              <a class="dropdown-item external"
+                href="https://docs.google.com/document/d/1Ynwl11Pqiass_LbD9itM3mARLdoO6h9UICLOgjvfvNw/edit"
+                target="_blank">Content Rules</a>
+              <a class="dropdown-item external"
+                href="https://docs.google.com/document/d/1kqxY2Avk-kt72iApawH2IPVs9gFACFkj__v60MFm2V4/edit"
+                target="_blank">Crossover Court Downloads</a>
+            </div>
+          </li>
+
+          <li class="nav-item dropdown active">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
+              data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Community
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+              <a class="dropdown-item" href="archive">Case Archive</a>
+              <a class="dropdown-item" href="competition">Competitions</a>
+              <a class="dropdown-item active" href="#">Role Guides
+                <span class="sr-only">(current)</span>
+              </a>
+            </div>
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link" href="about">About Us
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div class="bg">
+
+    <div class="container vertical-center">
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="intro text-center">Guides</div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+  <main>
+    </br>
+    </br>
+
+    <div class="container text-justify">
+      <div class="row">
+        <div class="col-sm-12">
+          <p>This page features various community submitted guides on client usage and role playing. Whether you&#39;re
+            new, unsure on how to play or just want a few extra tips, give them a read.
+            If you have a guide you&#39;ve made, send it to the Mod Discord and it might end up on here.
+            </br><b>These guides are not definitive ways to play, they&#39;re just meant to help and give tips.</b></p>
+          <hr>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 mb-4 mt-3">
+          <h2>Role Guides</h2>
+          <hr>
+        </div>
+      </div>
+      <div class="row text-center">
+        <div class="col-sm-12 col-lg-6">
+          <div class="jumbotron blue lighten-4">
+            <h2 class="text-center">Defense</h2>
+            <hr>
+            <a id="dwnld" class="lead"
+              href="https://docs.google.com/document/d/1Z99LWzx_mxmA7f2XR5pbzibyudpNJV8ZvK_vWqdrUtU/edit"
+              target="_blank">An introduction to playing Lead Defense</a></br>
+            <a id="dwnld" class="lead" href="img/defenseGuide.jpg" target="_blank">How to be a Defense Attorney!
+              (v1.3)</a>
+          </div>
+        </div>
+        <div class="col-sm-12 col-lg-6">
+          <div class="jumbotron red lighten-4">
+            <h2 class="text-center">Prosecution</h2>
+            <hr>
+            <a id="dwnld" class="lead"
+              href="https://docs.google.com/document/d/1dwp7n0t0Q_YsiPSkVR3h68sgCB-borObsTxnAjioSfQ/edit"
+              target="_blank">Newbie's Guide to Lead Prosecution</a></br>
+            <a id="dwnld" class="lead" href="img/prosecutionGuide.jpg" target="_blank">How to be a Prosecuting Attorney!
+              (v1.1)</a>
+          </div>
+        </div>
+      </div>
+      <div class="row text-center">
+        <div class="col-sm-12 col-lg-6">
+          <div class="jumbotron purple lighten-4">
+            <h2 class="text-center">Judge</h2>
+            <hr>
+            <a id="dwnld" class="lead"
+              href="https://docs.google.com/document/d/1bb0jXERUF8V1gR2jxlvYwtW3n1S7kWkUoY8ryNEW_KI/edit"
+              target="_blank">How to Avoid Falling Asleep</a></br>
+            <a id="dwnld" class="lead" href="img/judgeGuide.png" target="_blank">How to be a good Judge! (v1.3)</a>
+          </div>
+        </div>
+        <div class="col-sm-12 col-lg-6">
+          <div class="jumbotron green lighten-4">
+            <h2 class="text-center">Detective</h2>
+            <hr>
+            <a id="dwnld" class="lead" href="img/detectiveGuide.png" target="_blank">How to be a good Detective!
+              (v1.1)</a>
+          </div>
+        </div>
+      </div>
+      <div class="row text-center">
+        <div class="col-sm-12 col-lg-6">
+          <div class="jumbotron yellow lighten-4">
+            <h2 class="text-center">Witness</h2>
+            <hr>
+            <a id="dwnld" class="lead" href="img/witnessGuide.png" target="_blank">How to be a good Witness!
+              (v1.1)</a></br>
+            <a id="dwnld" class="lead" href="img/finalBossGuide.png" target="_blank">How to be the Final Boss!
+              (v1.1)</a>
+          </div>
+        </div>
+        <div class="col-sm-12 col-lg-6">
+          <div class="jumbotron grey lighten-4">
+            <h2 class="text-center">Stenographer</h2>
+            <hr>
+            <a id="dwnld" class="lead"
+              href="https://docs.google.com/document/d/1WGO8v9tiT4GBwIAHGWKegKwVu9nxOqt-i0OEsLdz1do/edit"
+              target="_blank">Stenography Guide</a>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-12 mb-4 mt-4">
+          <h2>Other Guides</h2>
+          <hr>
+          <a href="img/mapGuide.png" target="_blank" class="lead">How to make good maps! (v1.3)</a></br>
+          <a href="https://docs.google.com/document/d/1mMprHFWXBthfAbfknYDfagJrltF2zQGRNK4MEfNFsJw/edit" target="_blank"
+            class="lead">Ini Editing</a></br>
+          <a href="https://docs.google.com/document/d/1vsU1JKZEpwJKerpgiGQgD5mdy9W87-FzQGm9g3okBuo/edit" target="_blank"
+            class="lead">Content Creation Center</a>
+        </div>
+      </div>
+    </div>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="page-footer font-small grey darken-4">
+
+    <!-- Footer Elements -->
+    <div class="container text-center athena">
+
+      <!-- Grid row-->
+      <div class="row">
+
+        <!-- Grid column -->
+        <div class="col-sm-6 py-2 mb-3">
+          </br>
+          <a class="lead" href="https://discordapp.com/invite/tKew3hK" target="_blank"><i
+              class="fab fa-discord fa-2x indigo-text"></i></a>
+          </br>
+          <a class="lead" href="https://discordapp.com/invite/tKew3hK" target="_blank">Community</a>
+        </div>
+
+        <div class="col-sm-6 py-2 mb-3">
+          </br>
+          <a class="lead" href="https://discord.gg/ZvzhPBj" target="_blank"><i
+              class="fab fa-discord fa-2x red-text"></i></a>
+          </br>
+          <a class="lead" href="https://discord.gg/ZvzhPBj" target="_blank">Mod Server</a>
+        </div>
+        <!-- Grid column -->
+
+      </div>
+      <!-- Grid row-->
+
+    </div>
+    <!-- Footer Elements -->
+
+    <!-- Copyright -->
+    <div class="footer-copyright text-center">&#169; 2020 Attorney Online Vidya
+    </div>
+    <!-- Copyright -->
+
+  </footer>
+  <!-- Footer -->
+
+  <!-- SCRIPTS -->
+
+  <!-- JQuery -->
+  <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+  <!-- Bootstrap tooltips -->
+  <script type="text/javascript" src="js/popper.min.js"></script>
+  <!-- Bootstrap core JavaScript -->
+  <script type="text/javascript" src="js/bootstrap.min.js"></script>
+  <!-- MDB core JavaScript -->
+  <script type="text/javascript" src="js/mdb.js"></script>
+
+
+
+</body>
+
+</html>
