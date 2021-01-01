@@ -610,10 +610,35 @@
       "Normal",
       "2019/07/13"
     ],
-[
+	[
       "<a href='https://docs.google.com/document/d/1y3WSRoPbQQmWFYBomsRbPqJdWNKOhe5Iucf4KbpMQeg/edit' target='_blank'>Turnabout Frontier</a>",
       "Normal",
+      "2019/12/01"
+    ],
+	[
+      "<a href='' target='_blank'>The Turnabout is Loose</a> --- <a href='https://www.youtube.com/watch?v=TUPMIVta5KA' target='_blank'>(Video)</a>",
+      "Normal",
       "2019/12/08"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1Jp558h8oxATzZDC8mwyS2L105oNBuKKkATzuar3TSuc/edit' target='_blank'>Turnabout Cake Surprise</a> --- <a href='https://www.youtube.com/watch?v=GpU7QO7rKpk' target='_blank'>(Video)</a>",
+      "Normal",
+      "2019/11/17"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1SWMyM6G6j5eCqRe2vMPYFMoQznnkcCYgHOPabHidICU/edit#' target='_blank'>That's How The Turnabout Crumbles</a>",
+      "Normal",
+      "2019/12/27"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/19gWgk6tsGHAUDmDr4tOSKoNddE5cAkdKinyoZCgqeiM/edit#' target='_blank'>Turnabout in the Ritz</a> --- <a href='https://www.youtube.com/watch?v=nqQNLfxiNGc' target='_blank'>(Video)</a>",
+      "Normal",
+      "2019/12/28"
+    ],
+	[
+      "<a href='' target='_blank'>Turnabout Devil's Workshop</a> --- <a href='https://youtu.be/nOuUS0jfZeY' target='_blank'>(Video)</a>",
+      "Normal",
+      "2019/12/28"
     ]
   ]
 }
