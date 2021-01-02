@@ -402,7 +402,7 @@
         //DataTables init
         $(document).ready(function () {
             var table = $('#archive').DataTable({
-                "ajax": 'caseArchive2021.txt'
+                "ajax": 'data/caseArchive2021.txt'
             });
 
             $('#archive tbody').on('click', 'tr', function () {
@@ -453,7 +453,7 @@
         });
 
         $('#2021').on('click', function () {
-            $('#archive').DataTable().ajax.url('caseArchive2021.txt').load();
+            $('#archive').DataTable().ajax.url('data/caseArchive2021.txt').load();
             $('#archive').DataTable().ajax.reload();
 
             document.getElementById("yearsID").innerHTML = "2020/21";
@@ -462,7 +462,7 @@
         });
 
         $('#1819').on('click', function () {
-            $('#archive').DataTable().ajax.url('caseArchive1819.txt').load();
+            $('#archive').DataTable().ajax.url('data/caseArchive1819.txt').load();
             $('#archive').DataTable().ajax.reload();
 
             document.getElementById("yearsID").innerHTML = "2018/19";
