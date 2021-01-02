@@ -9,12 +9,14 @@
     [
       "<a href='https://docs.google.com/document/d/16EGXhM2IapAFsnoagzBBiT_VUHoL81hQO4v5MibH_4Q/edit#' target='_blank'>Turnabout A Fucking Pencil</a>",
       "Normal",
-      "2019/01/27"
+      "2019/01/27",
+	  ""
     ],
     [
       "<a href='https://docs.google.com/document/d/1CAW4ytzPZqL1xysMYAGz23HpVkwNUcIlDvA2BMDaCdE/edit#' target='_blank'>Turnabout Artiste</a>",
       "Normal",
-      "2019/03/11"
+      "2019/03/11",
+	  ""
     ]
   ]
 }
