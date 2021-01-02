@@ -280,14 +280,26 @@
             </div>
 
             <h2 class="text-center">
-                <strong><b>2020/21</b></strong>
+                <strong>
+                    <b>
+                        <button id="20/21" type="button" class="btn btn-primary btn-lg">2020/21</button>
+                    </b>
+                </strong>
+
                 <strong>&nbsp;|&nbsp;</strong>
-                <strong>2018/19</strong>
+
+                <strong>
+                    <button id="18/19" type="button" class="btn btn-primary btn-lg">2018/19</button>
+                </strong>
+
                 <strong>&nbsp;|&nbsp;</strong>
-                <strong><a href="https://docs.google.com/document/d/1Oke4MAKv0uMNYoRh2IIgR-3wdSRSNAxhrON52rwtQgI/edit"
+
+                <strong>
+                    <a href="https://docs.google.com/document/d/1Oke4MAKv0uMNYoRh2IIgR-3wdSRSNAxhrON52rwtQgI/edit"
                         target="_blank">
                         2015-18 <i class="fas fa-external-link-alt fa-xs"></i>
-                    </a></strong>
+                    </a>
+                </strong>
             </h2>
             </br>
 
@@ -423,6 +435,10 @@
             });
         });
 
+
+        $('#18/19').on('click', function () {
+            table.ajax.url('caseArchive.txt').load();
+        });
     </script>
 
 
