@@ -209,6 +209,43 @@
       "Normal",
       "2020/09/30",
 	  "McDachis CEO has been implicated for murder of a simple fry cook. Motive? Greed, Pride, and all of the above."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1zBFRJqh4zwUOwNlTOq9TATh6ZHwFLTQ-EJpcz1TbuZA/edit' target='_blank'>Turnabout Headache</a>",
+      "Normal",
+      "2020/10/01",
+	  "Disaster strikes at the Cheesy City arcade as professional Bowler Chad Chaddington is killed in a horrific accident! Tragic luck, or gruesome murder? You decide."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1C_e3YwKdupjF80Pg9oqsRZF5FMUYEgnAhH-MBQBab_k/edit' target='_blank'>Tomb of the Turnabout</a>",
+      "Normal",
+      "2020/10/03",
+	  "During the small hours of All Hallow’s Eve the corpse of a famous prankster is discovered among the dead inside the De Kay family crypt."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/15IGxJDRgh-6ULpQNnK8NZpMD07kEKe-smlYTwPjhbEE/edit' target='_blank'>Turnabout Scandal</a>",
+      "Normal",
+      "2020/10/03",
+	  "Sports super star, Higby Dick has been found dead of cardiac arrest! Tragic hypertrophy? Or jealous murder? Find out tonight"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1Y7BXM-wP2vmb5cw1e8hbeR58-8Uml4touqdYmzdJpJA/edit' target='_blank'>Turnabout Booty</a>",
+      "Normal",
+      "2020/10/05",
+	  "A sea captain slain while making sandwiches... a sea cutie accused! On a boat comprised entirely of... cute girls?"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1gepNlmbYkW4l_uIEerCiuKy0ZCWgSOvmrt7BkUdkaLg/edit' target='_blank'>Turnabout Kiwami</a>",
+      "Normal",
+      "2020/10/12",
+	  "The feared and infamous 'Dragon of Dojima' Kiryu Kazuma caught red-handed killing his boss, Sohei Dojima! Why would a Yakuza resort to something as dishonorable as this?"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1826R3ulJmY3o2PVYxXttBd3IrvFTJBPXiJBg6AygtE4/edit' target='_blank'>Turnabout Summerween</a>",
+      "Normal",
+      "2020/10/15",
+	  "A court retreat is interrupted by deadly primate genocide! Who could be responsible for such an atrocity? The judge appears to be enjoying the sangria a little too much..."
     ]
+	
   ]
 }
