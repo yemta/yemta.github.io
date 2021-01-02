@@ -143,6 +143,36 @@
       "Normal",
       "2020/08/07",
 	  ""
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1TZhdYgg42yAlfvHzUpa3u3119e7-DJCD9YL6NgXsKUk/edit' target='_blank'>Turnabout Past the Wicket</a>",
+      "Normal",
+      "2020/08/08",
+	  "A croquet case..."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1txmoL8kDXRucibTDe56N05gBP5YHAOIIvVP3hd0wHow/edit' target='_blank'>Turnabout Grief</a> --- <a href='https://www.youtube.com/watch?v=VU0wjNTrULI' target='_blank'>(Video)</a>",
+      "Normal",
+      "2020/08/21",
+	  "The Chief Prosecutor, Miles Edgeworth, is murdered in his own office! And Ace Attorney Phoenix Wright is to blame for!"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/14fRwnPzD3rqjJroz0gQcMfhn56M2GI_QwHslXSOZ72w/edit' target='_blank'>Turnabout Burial</a> --- <a href='https://www.youtube.com/watch?v=pbw0jmPajBE' target='_blank'>(Video)</a>",
+      "Normal",
+      "2020/09/04",
+	  "Barry D. Live, after supposedly passing away to illness, is found dead in his coffin during the funeral, murdered while trying to perform a prank."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1tLnqGE17yEIfBcIfA2SNaBUa8s0K0CBnEUce9d8u3-Y/edit' target='_blank'>Turnabout Pizza</a> --- <a href='https://youtu.be/pBJfsAiVCKo' target='_blank'>(Video Pt 1)</a> <a href='https://youtu.be/buT3YM58Sgg' target='_blank'>(Video Pt 2)</a>",
+      "Normal",
+      "2020/09/04",
+	  "Pizzeria man is beaten to death with frozen pizza and the accused? A down on his luck pizza tosser."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1slrE0CcpTLL0B-kx0UasZYvtgnFlsJ5i7KTiglszwXs/edit' target='_blank'>Turnabout Qcade</a> --- <a href='https://youtu.be/_ZC3HscM-ck' target='_blank'>(Video)</a>",
+      "Normal",
+      "2020/09/05",
+	  "In a grand Sega arcade, a man known as Q was found murdered. The suspect? Arcade enthusiast, Q! "
     ]
   ]
 }
