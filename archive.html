@@ -282,28 +282,16 @@
             <!-- TABLE UPDATER LINKS -->
             <h2 class="text-center">
                 <!-- 2020/21 -->
-                <strong>
-                    <b>
-                        <button id="2021" type="button" class="btn btn-primary btn-lg">2020/21</button>
-                    </b>
-                </strong>
-
-                <strong>&nbsp;|&nbsp;</strong>
+                <button id="2021" type="button" class="btn btn-primary btn-lg">2020/21</button>
 
                 <!-- 2018/19 -->
-                <strong>
-                    <button id="1819" type="button" class="btn btn-primary btn-lg">2018/19</button>
-                </strong>
-
-                <strong>&nbsp;|&nbsp;</strong>
+                <button id="1819" type="button" class="btn btn-primary btn-lg">2018/19</button>
 
                 <!-- LEGACY -->
-                <strong>
-                    <a href="https://docs.google.com/document/d/1Oke4MAKv0uMNYoRh2IIgR-3wdSRSNAxhrON52rwtQgI/edit"
-                        target="_blank">
-                        2015-18 <i class="fas fa-external-link-alt fa-xs"></i>
-                    </a>
-                </strong>
+                <a href="https://docs.google.com/document/d/1Oke4MAKv0uMNYoRh2IIgR-3wdSRSNAxhrON52rwtQgI/edit"
+                    target="_blank">
+                    <button id="legacy" type="button" class="btn btn-dark btn-lg external">2015-18 Legacy</button>
+                </a>
             </h2>
             </br>
 
@@ -442,14 +430,24 @@
     </script>
 
     <script>
+        $(document).ready(function () {
+            $('#2021').addClass("btn-outline-primary");
+        });
+
         $('#2021').on('click', function () {
             $('#archive').DataTable().ajax.url('caseArchive2021.txt').load();
             $('#archive').DataTable().ajax.reload();
+
+            $('#1819').removeClass("btn-outline-primary");
+            $(this).addClass("btn-outline-primary");
         });
 
         $('#1819').on('click', function () {
             $('#archive').DataTable().ajax.url('caseArchive1819.txt').load();
             $('#archive').DataTable().ajax.reload();
+
+            $('#2021').removeClass("btn-outline-primary");
+            $(this).addClass("btn-outline-primary")
         });
     </script>
 
