@@ -1,7 +1,7 @@
 {
   "data": [
     [
-      "Turnabout Oregon Trial --- <a href='https://www.youtube.com/watch?v=SEGkaJd7vlc' target='_blank'>(Video)</a>",",
+      "Turnabout Oregon Trial --- <a href='https://www.youtube.com/watch?v=SEGkaJd7vlc' target='_blank'>(Video)</a>",
       "Normal",
       "2020/01/20",
 	  ""
