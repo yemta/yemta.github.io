@@ -47,6 +47,36 @@
       "Normal",
       "2020/10/28",
 	  "Jump back in time… to Fuedal Era Japifornia! Samurai dishonored, a legend slain... Over a maiden? An empty garden caught in a battle of intrigue... Find out tonight in Total Court Shogun Vidya."
-    ]	
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1M6KmPJiaTYXDTNXVVl_xJoN012_ev3nzpQ05y2A1_94/edit#' target='_blank'>The Bumping Uglies Turnabout</a> --- <a href='https://www.youtube.com/watch?v=kk16K5265ck' target='_blank'>(Video)</a>",
+      "Normal",
+      "2020/03/01",
+	  "Murder in the Tunnel of Love"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1u_QtlS1cV5N-RaLQqFa4B_WLjrIgALxmGtAXx_CFI8I/edit#' target='_blank'>Turnabout Fugget Ahbout Et.</a>",
+      "Normal",
+      "2020/03/01",
+	  "Some Shitalian retard from Sicilia apparently shot some guy into his left eye and now he is charged with murder.<br />Did he do it or not? Who the fuck knows."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1KattQq0I-D7LJYBSNZSmWXEXvi11wc-yhEgZcsdUWBo/edit' target='_blank'>Turnabout ImPeachment</a> --- <a href='https://www.youtube.com/watch?v=JXPPjpwDC1k' target='_blank'>(Video)</a>",
+      "Normal",
+      "2020/04/01",
+	  "Tronald Dump is murdered by a peach"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/118CmFZLH1nCBISaHP4ilWgAInCS84M7dTlGRiWZubG8/edit' target='_blank'>A Broken-in Turnabout</a>",
+      "Normal",
+      "2020/06/01",
+	  "A man's home is invaded, his most precious belongings are stolen, and to top it all off, he's shot with his own gun."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1e8wg5d5cn2SOoolRFqbGW0R3XnvO9Oo9EjBFfAbhAWs/edit#' target='_blank'>Turnabout метамфетамин (or Turnabout Russian to get Meth)</a>",
+      "Normal",
+      "2020/07/01",
+	  "Slav meth dealers murdered in their meth shed"
+    ]
   ]
 }

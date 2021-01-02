@@ -623,22 +623,26 @@
 	[
       "<a href='https://docs.google.com/document/d/1Jp558h8oxATzZDC8mwyS2L105oNBuKKkATzuar3TSuc/edit' target='_blank'>Turnabout Cake Surprise</a> --- <a href='https://www.youtube.com/watch?v=GpU7QO7rKpk' target='_blank'>(Video)</a>",
       "Normal",
-      "2019/11/17"
+      "2019/11/17",
+	  "In which a futanari stripper Cammy gets killed in a cake."
     ],
 	[
       "<a href='https://docs.google.com/document/d/1SWMyM6G6j5eCqRe2vMPYFMoQznnkcCYgHOPabHidICU/edit#' target='_blank'>That's How The Turnabout Crumbles</a>",
       "Normal",
-      "2019/12/27"
+      "2019/12/27",
+	  "Girl(male)scouts and cookies."
     ],
 	[
       "<a href='https://docs.google.com/document/d/1HBuHGQ8ms0ZMW0EIUB_pWzWBgEB15mOvTs1d4HfDQtY/edit' target='_blank'>Turnabout in the Ritz</a> --- <a href='https://www.youtube.com/watch?v=nqQNLfxiNGc' target='_blank'>(Video)</a>",
       "Normal",
-      "2019/12/28"
+      "2019/12/28",
+	  "Velvet Attendents cast"
     ],
 	[
       "Turnabout Devil's Workshop --- <a href='https://youtu.be/nOuUS0jfZeY' target='_blank'>(Video)</a>",
       "Normal",
-      "2019/12/28"
+      "2019/12/28",
+	  "'WHY WOUDL THEY DRINKN YOUR FITY YEAR OLD NUT'"
     ]
   ]
 }
