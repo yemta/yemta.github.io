@@ -173,6 +173,42 @@
       "Normal",
       "2020/09/05",
 	  "In a grand Sega arcade, a man known as Q was found murdered. The suspect? Arcade enthusiast, Q! "
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1Ugrjlouh0KqpxRR5XmRxpdeY7pwlXVHsmXL6BPlXIsk/edit' target='_blank'>Turnabout Office Space</a>",
+      "Normal",
+      "2020/09/06",
+	  "A night after closing turns murderous as an office worker is found strangled to death.<br />The culprit? A sassy mute janitor."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1serz9o6gwhGMM_tNNLRb8EBcBQOQzr58Kn5kNRP6uZg/edit' target='_blank'>Turnabout the Bell</a>",
+      "Normal",
+      "2020/09/12",
+	  "A meeting over a potential roster change at a gaming cafe themed Taco Bell named The Cantina, Yet suddenly murder strikes! Is this downtrodden athlete responsible?"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1VcQEMs9Pd0ZKjerhZD2-vCgQNFkEbSUwB88C_a0OCyU/edit' target='_blank'>The Green-Eyed Turnabout</a>",
+      "Normal",
+      "2020/09/25",
+	  "Two victims, deeply in love, found dead in each other's arms."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1rkCe-vl2VPQ81WmFLGGAP8LvQbdDqmNREvlmUJNXf0Q/edit' target='_blank'>The Crafted Turnabout</a>",
+      "Normal",
+      "2020/09/25",
+	  "Yu-Gi-Oh lore case that devolves into BDSM accusation..."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1wkIUg0XlIM_8VZjcN7N9KHORMlDWmetXNP4Zg_HFSD0/edit' target='_blank'>Silence Turnabout</a>",
+      "Normal",
+      "2020/09/26",
+	  "Construction case where BDSM gets involved..."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1OLdwY4ZwDg3dnGYwT_Qg2z9X_IFcb3gvpS0xLQ1sgaA/edit' target='_blank'>East Turnabout ESL</a>",
+      "Normal",
+      "2020/09/30",
+	  "McDachis CEO has been implicated for murder of a simple fry cook. Motive? Greed, Pride, and all of the above."
     ]
   ]
 }
