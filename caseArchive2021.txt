@@ -10,16 +10,13 @@
       "<a href='https://docs.google.com/document/d/1ZsHbhqsTND53y4xL8vGMvsW9ayFiBL-4v61j-iMzMdk/edit?usp=sharing' target='_blank'>The Incel Turnabout</a>",
       "Normal",
       "2020/10/04",
-	  "At the Ace Attorney Vidya offices, a surprising case of homicide has occurred! Hazama was found dead inside the Case Archives. 
-	  What was he after? Is this all just a nonsense conspiracy? 
-	  The defence must use all of their intelligence if they are to uncover the truth!"
+	  "At the Ace Attorney Vidya offices, a surprising case of homicide has occurred! Hazama was found dead inside the Case Archives."
     ],
 	[
       "<a href='https://docs.google.com/document/d/11YYRmgnAWJpcFvCm1N4eCVpPwf-spUFMdMN8OXQ12Uc/edit' target='_blank'>The Curious Turnabout</a>",
       "Normal",
       "2020/03/01",
-	  "While visiting relatives in Stanbury, Layton’s adoptive daughter is found dead in a river following a fearsome storm. 
-	  Can the defense solve the puzzle of her death or will the prosecution steal all their picarats?"
+	  "While visiting relatives in Stanbury, Layton’s adoptive daughter is found dead in a river following a fearsome storm."
     ],
 	[
       "<a href='https://docs.google.com/document/d/1REFojAehzDKa9w9tP3N8EpeYcumPY8GADf4ktx2zo2I/edit' target='_blank'>Let’s All Go Down To The Turnabout Con!</a>",
@@ -31,22 +28,13 @@
       "<a href='https://docs.google.com/document/d/1Of6phVOFzO8IrBSyG2CHb_dP5WC4I-zCtaTUOL-zYjs/edit' target='_blank'>Turnabout Sanfransokyo Blues</a>",
       "Normal",
       "2020/12/23",
-	  "A doctor wracked with despair, a wife fallen from the path… beaten into the earth.
-		Did the doctor prescribe her fate?
-		Only the court will know.
-		Find out tonight on AOV: Attorney Online VIdya."
+	  "A doctor wracked with despair, a wife fallen from the path… beaten into the earth."
     ],
 	[
       "<a href='https://docs.google.com/document/d/1nN3vliHr-xOj2_iNZMRY5ArHMvkGiHA-1YXb5PWtdqg/edit' target='_blank'>Turnabout in the Holster</a>",
       "Normal",
       "2020/08/22",
-	  "The streets of Chigato city are frigid in the cold nocturne of the November twilight, 
-	  sounds like breaking bones pierce the night in a fierce staccato. Icicles like daggers popping from their highrise homes, 
-	  the noise near drowning out the sound of the chase on the rooftops above. 
-	  A grizzled, hardboiled detective draws his firearm to shout a cry of halting, 
-	  only for the cry to be lost to the wind, like the grit of a sandy beach swept up into the night, gone forever. 
-	  Shots ring out into the gloom, and the call goes out.
-	  What is the answer to this story, what happened on that rooftop in the deathly chill of that night?"
+	  "The streets of Chigato city are frigid in the cold nocturne of the November twilight"
     ],
 	[
       "<a href='https://docs.google.com/document/d/1Va9q0KkEMzGrL-roaZvF7r9kh7wF8l5iM3fk6f-PXT8/edit' target='_blank'>Turnabout Big Iron</a>",
