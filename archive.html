@@ -279,21 +279,25 @@
                 </div>
             </div>
 
+            <!-- TABLE UPDATER LINKS -->
             <h2 class="text-center">
+                <!-- 2020/21 -->
                 <strong>
                     <b>
-                        <button id="20/21" type="button" class="btn btn-primary btn-lg">2020/21</button>
+                        <button id="2021" type="button" class="btn btn-primary btn-lg">2020/21</button>
                     </b>
                 </strong>
 
                 <strong>&nbsp;|&nbsp;</strong>
 
+                <!-- 2018/19 -->
                 <strong>
                     <button id="1819" type="button" class="btn btn-primary btn-lg">2018/19</button>
                 </strong>
 
                 <strong>&nbsp;|&nbsp;</strong>
 
+                <!-- LEGACY -->
                 <strong>
                     <a href="https://docs.google.com/document/d/1Oke4MAKv0uMNYoRh2IIgR-3wdSRSNAxhrON52rwtQgI/edit"
                         target="_blank">
@@ -438,8 +442,12 @@
     </script>
 
     <script>
+        $('#2021').on('click', function () {
+            $('#archive').DataTable().ajax.url('caseArchive2021.txt').load();
+            $('#archive').DataTable().ajax.reload();
+        });
+
         $('#1819').on('click', function () {
-            alert("Fuck");
             $('#archive').DataTable().ajax.url('caseArchive1819.txt').load();
             $('#archive').DataTable().ajax.reload();
         });
