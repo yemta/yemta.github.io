@@ -296,7 +296,9 @@
             </br>
 
             <div class="jumbotron">
-                <strong><b><h2 id="yearsID">Loading</h2></b></strong><br/>
+                <strong><b>
+                        <h2 id="yearsID">Loading</h2>
+                    </b></strong><br />
                 <!-- 2019 DataTables table, data added via script -->
                 <table id="archive" class="display" style="width:100%">
                     <thead>
@@ -399,6 +401,11 @@
                 "ajax": 'caseArchive2021.txt'
             });
 
+            $('#archive tbody').on('click', 'tr', function () {
+                var data = table.row(this).data();
+                alert('You clicked on ' + data[0] + '\'s row');
+            });
+
             //Alphabet search interface
             var alphabet = $('<div class="alphabet"/>').append('Filter: ');
 
@@ -433,7 +440,7 @@
     <script>
         $(document).ready(function () {
             $('#2021').addClass("btn-outline-primary");
-            document.getElementById("yearsID").innerHTML = "2020/21"; 
+            document.getElementById("yearsID").innerHTML = "2020/21";
         });
 
         $('#2021').on('click', function () {
@@ -449,7 +456,7 @@
             $('#archive').DataTable().ajax.url('caseArchive1819.txt').load();
             $('#archive').DataTable().ajax.reload();
 
-            document.getElementById("yearsID").innerHTML = "2018/19"; 
+            document.getElementById("yearsID").innerHTML = "2018/19";
             $('#2021').removeClass("btn-outline-primary");
             $(this).addClass("btn-outline-primary")
         });
