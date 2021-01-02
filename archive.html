@@ -410,8 +410,8 @@
                 try {
                     document.getElementById("caseDesc").innerHTML = data[0] + "<br />" + data[3];
                 }
-                catch {
-                    document.getElementById("caseDesc").innerHTML = "No Case Description Provided";
+                catch(err){
+                    document.getElementById("caseDesc").innerHTML = err.message;
                 }
             });
 
