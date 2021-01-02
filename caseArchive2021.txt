@@ -107,6 +107,42 @@
       "Normal",
       "2020/07/03",
 	  "Museum Case where the jews did it."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1EkOipvr0YL4nJql3zsSG8999kNI3TtUgqKIpiFpQ4v0/edit' target='_blank'>Turnabout KWAB</a>",
+      "Normal",
+      "2020/07/04",
+	  "MISTER MONEY IN THE BANK, the American Eagle, aka Mr White, killed famous wrestler Kevin Nash in a backstage car park in an apparent shoot gone wrong!"
+    ],
+	[
+      "Turnabout Plumber case thing --- <a href='https://www.youtube.com/watch?v=kfBzbsBzFAM' target='_blank'>(Video)</a>",
+      "Normal",
+      "2020/07/04",
+	  "Oops! All Adachi!"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1kRreouTgO3hTYrPczPVwB6gy9uvS5lJFqx-V2gS3gRU/edit' target='_blank'>The Smashed Turnabout</a>",
+      "Normal",
+      "2020/07/06",
+	  "A Super Smash Brothers Kerfuffle leads to someone getting Super Strangled, Bro!"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1_7--o7P_iDA18eCh5E1jkWCSblkIuto9NG6myD8NlWM/edit' target='_blank'>Turnabout off the Bow</a> --- <a href='https://youtu.be/kLLyCnnrFio' target='_blank'>(Video)</a>",
+      "Normal",
+      "2020/07/27",
+	  "In which the witness testifies against her own son..."
+    ],
+	[
+      "Take that Turnabout to the Bank --- <a href='https://www.youtube.com/watch?v=62k6_Rsblhs' target='_blank'>(Video)</a>",
+      "Normal",
+      "2020/07/28",
+	  ""
+    ],
+	[
+      "Turnabout Breakdance --- <a href='https://www.youtube.com/watch?v=T1s6_v5vpBE' target='_blank'>(Video Pt 1)</a> <a href='https://www.youtube.com/watch?v=JThFYvAOK_M' target='_blank'>(Video Pt 2)</a>",
+      "Normal",
+      "2020/08/07",
+	  ""
     ]
   ]
 }
