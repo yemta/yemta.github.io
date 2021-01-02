@@ -172,7 +172,7 @@
       "<a href='https://docs.google.com/document/d/1slrE0CcpTLL0B-kx0UasZYvtgnFlsJ5i7KTiglszwXs/edit' target='_blank'>Turnabout Qcade</a> --- <a href='https://youtu.be/_ZC3HscM-ck' target='_blank'>(Video)</a>",
       "Normal",
       "2020/09/05",
-	  "In a grand Sega arcade, a man known as Q was found murdered. The suspect? Arcade enthusiast, Q! "
+	  "In a grand Sega arcade, a man known as Q was found murdered. The suspect? Arcade enthusiast, Q!"
     ],
 	[
       "<a href='https://docs.google.com/document/d/1Ugrjlouh0KqpxRR5XmRxpdeY7pwlXVHsmXL6BPlXIsk/edit' target='_blank'>Turnabout Office Space</a>",
@@ -245,7 +245,90 @@
       "Normal",
       "2020/10/15",
 	  "A court retreat is interrupted by deadly primate genocide! Who could be responsible for such an atrocity? The judge appears to be enjoying the sangria a little too much..."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1OHm_pskEOpVaJ7NnUIFGsXzTzJx1bN24Aqlfb6t3eVQ/edit' target='_blank'>Turnabout Card Fishing</a> --- <a href='https://www.youtube.com/watch?v=ycYPPuYkjFY' target='_blank'>(Video)</a>",
+      "Normal",
+      "2020/10/17",
+	  "A YuGiOh case turned MGS2 case..."
+    ],
+	[
+      "Turnabout of Science and potatoes --- <a href='https://www.youtube.com/watch?v=FJhwtE4L6ig' target='_blank'>(Video)</a>",
+      "Normal",
+      "2020/10/17",
+	  ""
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1EX_BjmqcD63nyWi9337ulfBXrOyRxXBnXpdZxfDDLdY/edit' target='_blank'>Turnabout Space Eats</a>",
+      "Normal",
+      "2020/10/17",
+	  "An italian sub place has been raided! Aboard a satellite! During a court space field trip! How could you even sell sandwiches in space? But what is this? A sandwicher maker dead?"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1WCdgNcOLSj-i4NtEo2UMcUUbT8UTusXC7dUoSIv9aZI/edit' target='_blank'>Oh, That's a Turnabout!</a> --- <a href='https://www.youtube.com/watch?v=ov5RjUAQCmA' target='_blank'>(Video)</a>",
+      "Normal",
+      "2020/10/28",
+	  "During a celebratory visit to the IHOP following a Japanifornian Minor League Baseball match, two people from opposing teams get into a fight that gets taken out back. One of them is later found beaten to the ground, not dead, but probably retarded."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/15HBrE1z_US9ZMMDUm38JqDiN2Qh-MwWwoxfz2LTmCb8/edit' target='_blank'>Turnabout of Glensdale</a>",
+      "Normal",
+      "2020/10/17",
+	  "Caleb is a bounty hunting outlaw, and the warden is found dead in an attack on his prison LEAD by Mr Quinn. (Lucina's final case)"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1I7glSqTGdIEKfKmZWV2LvBA44CVveh0GwzJ4fGW52DM/edit' target='_blank'>Turnabout Mooove</a>",
+      "Normal",
+      "2020/11/19",
+	  "Movie producer murder nonsense, game developer indicted!, did the dog do it? Find out tonight on AOV (Featuring Dante from the Devil May Cry series."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1LxQTNw2cVSPLhb_ZM2dtvHwh18iys9Bx9Y2ufu-SYz4/edit' target='_blank'>Deep in the Turnabout</a>",
+      "Normal",
+      "2020/12/06",
+	  "Leffen is killed by the DeepLeffen Twitter bot..."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1vYwZfPOrDr6m084Jdmferrko6zuZzH-ZOFl5eFqSyyE/edit' target='_blank'>Turnabout Magic Hoohah</a> --- <a href='https://youtu.be/Zbs7sLC-6as' target='_blank'>(Video)</a>",
+      "Normal",
+      "2020/12/07",
+	  "A popular media guru has been slain in his temple! A devout follower caught in the act! Is it the work of his own power? Or is it something more sinister at hand?<br />(WHAT IS THIS CASE???)"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1kAazBG9PSP23L6J4tyWLNNrz6h0vVZlYFnXK0WU1Q2E/edit#' target='_blank'>Turnabout Fried Potatoes</a>",
+      "AAI",
+      "2020/12/10",
+	  "The baliff finds herself in trouble when she is the prime suspect in a murder!<br />(The one that crashed at Detective...)"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1N4HJpCCuVFYH5JNdcYYHKDU2nNxJjLKNqqQ0NIbwVRw/edit' target='_blank'>Turnabout Trial of Justice (Rings of Arcanum)</a>",
+      "Normal",
+      "2020/12/11",
+	  "The trial that happened in the middle of a tabletop game..."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1uHcAaPlHleE-gldSCVM6hikfY0volAbBoHeloLAEZuA/edit' target='_blank'>Turnabout Popcorn Surprise!</a> --- <a href='https://www.youtube.com/watch?v=VB4IwNrvbLU' target='_blank'>(Video)</a>",
+      "Normal",
+      "2020/12/14",
+	  "Egads, someone has been murdered in the local popped mazed theater, with a knife!"
+    ],
+	[
+      "Turnabout YOU MAKE IT! --- <a href='https://youtu.be/jeNLSYg9YXw' target='_blank'>(Video)</a>",
+      "Normal",
+      "2020/12/14",
+	  "Sushi, Japanese Yakuza, Murder!"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1-nU8KAurMcEeUflrLOdRF8st5Hc3b5oZw3X8aI0XK1w/edit#' target='_blank'>The Big Prison Turnabout</a> --- <a href='https://youtu.be/k9LQVIlCgps' target='_blank'>(Video)</a>",
+      "Normal",
+      "2020/12/30",
+	  "A prison guard gets her fucking head CAVED IN during a prison riot. The fire rises.<br />Featuring crazy twists and Godot."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/104Vubm5i4jWpwLsd_dFaMUKF3VxGIkq11nbQbnvzaLU/edit#' target='_blank'>Turnabout Carriage Drive-By</a> --- <a href='https://youtu.be/EWTTmE-tp7Q' target='_blank'>(Video)</a>",
+      "Normal",
+      "2020/12/31",
+	  "A student has been murdered by hit-and-run, but it's a reference to something, it's VERY anime, it takes place in a different time period and the mob is involved.<br />NEW YEAR'S DRINKING CASE."
     ]
-	
   ]
 }
