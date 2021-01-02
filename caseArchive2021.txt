@@ -1,7 +1,7 @@
 {
   "data": [
     [
-      "<a href='https://docs.google.com/document/d/1M6KmPJiaTYXDTNXVVl_xJoN012_ev3nzpQ05y2A1_94/edit#' target='_blank'>The Bumping Uglies Turnabout</a> --- <a href='https://www.youtube.com/watch?v=kk16K5265ck' target='_blank'>(Video)</a>,
+      "<a href='https://docs.google.com/document/d/1M6KmPJiaTYXDTNXVVl_xJoN012_ev3nzpQ05y2A1_94/edit#' target='_blank'>The Bumping Uglies Turnabout</a> --- <a href='https://www.youtube.com/watch?v=kk16K5265ck' target='_blank'>(Video)</a>",
       "Normal",
       "2019/03/30"
     ],
