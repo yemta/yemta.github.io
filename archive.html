@@ -437,8 +437,8 @@
 
 
         $('#18/19').on('click', function () {
-            table.ajax.url('caseArchive1819.txt').load();
-            table.ajax.reload();
+            $('#archive').DataTable().ajax.url('caseArchive1819.txt').load();
+            //$('#archive').DataTable().ajax.reload();
         });
     </script>
 
