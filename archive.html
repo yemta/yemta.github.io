@@ -289,7 +289,7 @@
                 <strong>&nbsp;|&nbsp;</strong>
 
                 <strong>
-                    <button id="18/19" type="button" class="btn btn-primary btn-lg">2018/19</button>
+                    <button id="1819" type="button" class="btn btn-primary btn-lg">2018/19</button>
                 </strong>
 
                 <strong>&nbsp;|&nbsp;</strong>
@@ -435,8 +435,11 @@
             });
         });
 
+    </script>
 
-        $('#18/19').on('click', function () {
+    <script>
+        $('#1819').on('click', function () {
+            alert("Fuck");
             $('#archive').DataTable().ajax.url('caseArchive1819.txt').load();
             $('#archive').DataTable().ajax.reload();
         });
