@@ -40,7 +40,7 @@
       "<a href='https://docs.google.com/document/d/1Va9q0KkEMzGrL-roaZvF7r9kh7wF8l5iM3fk6f-PXT8/edit' target='_blank'>Turnabout Big Iron</a>",
       "Normal",
       "2020/09/06",
-	  "WE’RE COWBOYS.\n COWBOY CASE. THAT MEANS THE DETECTIVE IS CUCKED FROM DOING ANY MEME PRINTS"
+	  "WE’RE COWBOYS.<br /> COWBOY CASE. THAT MEANS THE DETECTIVE IS CUCKED FROM DOING ANY MEME PRINTS"
     ],
 	[
       "<a href='https://docs.google.com/document/d/1B-Po2ZI9JbGLm0ncE1VDIi22SRoKfiDgHBJWXHDN3Tg/edit' target='_blank'>Turnabout Fueldal</a>",
