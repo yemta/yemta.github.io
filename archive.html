@@ -316,6 +316,10 @@
                     </tfoot>
 
                 </table>
+
+                </br>
+                <h2>Case Description</h2>
+                <p id="caseDesc">Click a table row to see a short description of that case.</p>
             </div>
         </div>
     </main>
@@ -403,7 +407,8 @@
 
             $('#archive tbody').on('click', 'tr', function () {
                 var data = table.row(this).data();
-                alert('You clicked on ' + data[0] + '\'s row');
+                //alert('You clicked on ' + data[0] + '\'s row');
+                document.getElementById("caseDesc").innerHTML = data[0];
             });
 
             //Alphabet search interface
