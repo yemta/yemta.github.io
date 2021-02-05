@@ -331,7 +331,7 @@
     <!-- Footer Elements -->
 
     <!-- Copyright -->
-    <div class="footer-copyright text-center">&#xa9; 2020 Attorney Online Vidya
+    <div id="copy" class="footer-copyright text-center">&#xa9; 2020 Attorney Online Vidya
       <br/>This fansite is not affiliated with nor endorsed by Capcom Co., Ltd.
       <br/>All content and trademarks referenced are property of their respective owners.
     </div>
@@ -354,7 +354,10 @@
   <script>
     var client = new XMLHttpRequest();
     client.open('GET', '/data/foo.txt');
-    alert(client.responseText);
+    client.onreadystatechange = function() {
+      document.getElementById('copy').innerHTML = client.responseText;
+    }
+    client.send();
   </script>
 
 
