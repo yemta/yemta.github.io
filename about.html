@@ -109,10 +109,6 @@
     #status {
       padding: 20px 20px 5px 20px;
     }
-
-    #copy {
-      white-space: pre-wrap;
-    }
   </style>
   <style type="text/css">
     /* Chart.js */
@@ -335,9 +331,7 @@
     <!-- Footer Elements -->
 
     <!-- Copyright -->
-    <div id="copy" class="footer-copyright text-center">&#xa9; 2020 Attorney Online Vidya
-      <br/>This fansite is not affiliated with nor endorsed by Capcom Co., Ltd.
-      <br/>All content and trademarks referenced are property of their respective owners.
+    <div id="copyr" class="footer-copyright text-center">
     </div>
     <!-- Copyright -->
 
@@ -357,7 +351,7 @@
   
   <script>
     var client = new XMLHttpRequest();
-    client.open('GET', '/data/foo.txt');
+    client.open('GET', '/data/copy.txt');
     client.onreadystatechange = function() {
       document.getElementById('copy').innerHTML = client.responseText;
     }
