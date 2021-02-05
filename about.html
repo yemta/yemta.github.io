@@ -341,6 +341,7 @@
   <!-- Footer -->
 
   <!-- SCRIPTS -->
+  <script type="text/javascript" src="js/copyr.js"></script>
 
   <!-- JQuery -->
   <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
@@ -350,16 +351,6 @@
   <script type="text/javascript" src="js/bootstrap.min.js"></script>
   <!-- MDB core JavaScript -->
   <script type="text/javascript" src="js/mdb.js"></script>
-  
-  <script>
-    var client = new XMLHttpRequest();
-    client.open('GET', '/data/copy.txt');
-    client.onreadystatechange = function() {
-      document.getElementById('copy').innerHTML = client.responseText;
-    }
-    client.send();
-  </script>
-
 
 </body>
 
