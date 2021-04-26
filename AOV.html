@@ -395,12 +395,10 @@
           </div>
         </div>
         <div class="col-sm-6">
-          <div id="status" class="jumbotron text-center">
+          <div id="divtodiplaystatus" class="jumbotron text-center">
             <h3>Server Status</h3>
             <hr>
-            Attorney Online Vidya (Dedicated)</br>
-            168.235.103.247:50001</br></br>
-            <p class="lead text-success">Online</p>
+
           </div>
         </div>
       </div>
@@ -463,6 +461,22 @@
   <script type="text/javascript" src="js/bootstrap.min.js"></script>
   <!-- MDB core JavaScript -->
   <script type="text/javascript" src="js/mdb.js"></script>
+
+  <script type="text/javascript">
+    $.ajax({
+      url: "http://google.com",
+      type: "post",
+      data: "onlinecheck",
+      success: function () {
+        //function if server's online
+        document.getElementById("divtodiplaystatus").innerHTML = "Server is online";
+      },
+      error: function () {
+        //function if server's offline
+        document.getElementById("divtodiplaystatus").innerHTML = "Server is offline";
+      }
+    });
+  </script>
 
   <script>new WOW().init();</script>
 </body>
